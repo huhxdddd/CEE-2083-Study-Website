@@ -1,20 +1,8 @@
-# CEE 2083 — Questions & Solutions
 
-A static, no-build study website created from the supplied CEE 2083 exam paper and the supplied hints/solutions PDF.
 
-## Run it
 
-### Simplest
-Double-click `index.html` and open it in a modern browser.
 
-### Recommended local server
-If your browser blocks local assets, run a small static server from this folder:
 
-```bash
-python -m http.server 8080
-```
-
-Then open `http://localhost:8080`.
 
 ## Features
 
