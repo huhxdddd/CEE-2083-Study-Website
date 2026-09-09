@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f4ee">
+  <title>CEE 2083 — Questions & Solutions</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="CEE 2083 home"><span class="brand-mark">C</span><span>CEE 2083</span></a>
+    <nav class="nav-links"><a href="#overview">Overview</a><a href="#questions">Questions</a><a href="#practice">Practice</a></nav>
+    <div class="top-actions"><button id="searchBtn" class="icon-btn" aria-label="Search">⌘K</button><button id="themeBtn" class="icon-btn" aria-label="Toggle theme">◐</button></div>
+  </header>
+
+  <main id="top">
+    <section class="hero" id="overview">
+      <div class="eyebrow">COMMON ENTRANCE EXAMINATION · 2083</div>
+      <h1>Study the paper.<br><em>Understand the reasoning.</em></h1>
+      <p class="hero-copy">A clean, focused reference for the CEE 2083 question paper and its supplied hints and solutions.</p>
+      <div class="hero-actions"><button class="primary" id="startBtn">Start studying</button><a class="secondary" href="#questions">Browse all questions</a></div>
+      <div class="stats-row">
+        <div><strong>200</strong><span>Questions</span></div><div><strong>3 hr</strong><span>Exam time</span></div><div><strong>200</strong><span>Full mark</span></div><div><strong>−0.25</strong><span>Per wrong answer</span></div>
+      </div>
+    </section>
+
+    <section class="overview-grid section">
+      <div class="section-intro"><span class="kicker">01</span><h2>Exam structure</h2><p>The paper is divided into five sections. Use the subject filters to move directly to the area you want to study.</p></div>
+      <div class="subject-cards" id="subjectCards"></div>
+    </section>
+
+    <section class="study-section section" id="questions">
+      <div class="section-heading"><div><span class="kicker">02</span><h2>Question library</h2></div><div class="heading-meta"><span id="countLabel">200 questions</span><span class="dot"></span><span id="progressLabel">0 reviewed</span></div></div>
+      <div class="toolbar">
+        <div class="filters" id="filters"></div>
+        <div class="toolbar-right"><select id="statusFilter" aria-label="Filter by status"><option value="all">All status</option><option value="unreviewed">Unreviewed</option><option value="reviewed">Reviewed</option><option value="difficult">Needs review</option></select><button id="randomBtn" class="small-btn">Random</button></div>
+      </div>
+      <div class="question-layout">
+        <aside class="question-nav"><div class="nav-title">Question index</div><div id="questionIndex" class="question-index"></div></aside>
+        <div id="questionList" class="question-list"></div>
+      </div>
+    </section>
+
+    <section class="practice-section section" id="practice">
+      <div class="section-heading"><div><span class="kicker">03</span><h2>Practice mode</h2></div><button id="practiceBtn" class="primary">Open practice</button></div>
+      <div class="practice-card"><div class="practice-copy"><span class="practice-label">Focused recall</span><h3>One question at a time, without the noise.</h3><p>Answer from memory, reveal the supplied solution, then mark the question for another pass.</p></div><div class="practice-preview"><span>Question</span><strong id="practicePreview">Ready when you are.</strong></div></div>
+    </section>
+
+    <section class="sources section">
+      <div><span class="kicker">04</span><h2>Source material</h2><p>Question text and supplied explanations are based on the two uploaded PDFs. Where the solution PDF is blank or inconsistent, the site keeps that state visible instead of silently inventing a correction.</p></div>
+      <div class="source-links"><a href="assets/CEE-Exam-2083-03-06.pdf" target="_blank">Open exam paper</a><a href="assets/Hints-And-Solutions-03-06.pdf" target="_blank">Open hints & solutions</a></div>
+    </section>
+  </main>
+
+  <footer><span>CEE 2083 Study Reference</span><span>Built for focused study</span></footer>
+
+  <div id="searchOverlay" class="overlay hidden"><div class="search-modal"><div class="search-top"><input id="searchInput" placeholder="Search questions, subjects, answers..." autocomplete="off"><button id="closeSearch" class="icon-btn">Esc</button></div><div id="searchResults"></div></div></div>
+  <div id="practiceModal" class="overlay hidden"><div class="practice-modal"><div class="modal-top"><span id="practiceSubject">Physics</span><span id="practiceCounter">1 / 200</span><button id="closePractice" class="icon-btn">Esc</button></div><div id="practiceContent"></div><div class="practice-controls"><button id="prevPractice" class="small-btn">Previous</button><button id="revealPractice" class="primary">Reveal solution</button><button id="nextPractice" class="small-btn">Next</button></div></div></div>
+  <script src="data/questions.js"></script><script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5275 @@
+[
+  {
+    "number": 1,
+    "stem": "The frequency of fork is increased by 50% ,then change in tension is",
+    "options": [
+      {
+        "key": "a",
+        "text": "50%."
+      },
+      {
+        "key": "b",
+        "text": "100%."
+      },
+      {
+        "key": "c",
+        "text": "75%"
+      },
+      {
+        "key": "d",
+        "text": "125%"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "125%",
+    "explanation": "Since frequency f ∝ √T, a 50% increase in frequency (1.5f) requires tension to increase to (1.5)2=2.25T, which is a net 125% increase.",
+    "hasVisual": false
+  },
+  {
+    "number": 2,
+    "stem": "The sum of 2 vector is also the unit vector ,then their difference will be",
+    "options": [
+      {
+        "key": "a",
+        "text": "2."
+      },
+      {
+        "key": "b",
+        "text": "31/2."
+      },
+      {
+        "key": "c",
+        "text": "21/2"
+      },
+      {
+        "key": "d",
+        "text": "Zero"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "31/2.",
+    "explanation": "For two unit vectors to have a unit vector sum, the angle between them must be 120°, making the magnitude of their vector difference √(12 + 12 - 2(1)(1)cos(120°)) = √3.",
+    "hasVisual": false
+  },
+  {
+    "number": 3,
+    "stem": "A ball of mass 4 kg moving with speed of 5 m/s on a horizontal smooth surface, collides with a nearly weightless spring of force constant k=20N/M. The maximum compression of spring would be",
+    "options": [
+      {
+        "key": "a",
+        "text": "0.15m."
+      },
+      {
+        "key": "b",
+        "text": "1.5m."
+      },
+      {
+        "key": "c",
+        "text": "1.8m."
+      },
+      {
+        "key": "d",
+        "text": "2.2m"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "2.2m",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 4,
+    "stem": "A stunt driver wants to jump a car across a 20-meter-wide canyon. He drives up an approach ramp inclined at θ to the horizontal. If his speed at the top of the ramp is 20 m/s, what minimum angle θ ensures he clears the gap safely? (Take g = 10 m/s2):",
+    "options": [
+      {
+        "key": "a",
+        "text": "15°."
+      },
+      {
+        "key": "b",
+        "text": "30°."
+      },
+      {
+        "key": "c",
+        "text": "45°"
+      },
+      {
+        "key": "d",
+        "text": "60°"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "45°",
+    "explanation": "To successfully clear a maximum horizontal gap width (range) with a given launch velocity, the optimal theoretical projection angle is 45°.",
+    "hasVisual": false
+  },
+  {
+    "number": 5,
+    "stem": "A block of mass 2 kg is pressed against a rough vertical wall with a horizontal force of 40 N. If the coefficient of static friction between the block and the wall is",
+    "options": [],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "20 N",
+    "explanation": "The maximum static friction is fmax = μN = 0.5 × 40 = 20 N, which perfectly balances the downward gravitational weight component mg = 2 × 10 = 20 N.",
+    "hasVisual": false
+  },
+  {
+    "number": 6,
+    "stem": "A force F = 20 + 10y acts on a particle in y-direction where F is in newton and y in meter. Work done by this force to move the particle from y = 0 to y = 1 m is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "20 J."
+      },
+      {
+        "key": "b",
+        "text": "30 J."
+      },
+      {
+        "key": "c",
+        "text": "5 J"
+      },
+      {
+        "key": "d",
+        "text": "25J"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "25J",
+    "explanation": "Work done is evaluated via integration: ∫0 1 (20 + 10y) dy = [20y + 5y2]0 1 = 20 + 5 = 25 J.",
+    "hasVisual": false
+  },
+  {
+    "number": 7,
+    "stem": "A solid cylinder and a solid sphere of equal mass and radius roll down the same inclined plane without slipping from rest. What is the ratio of their linear velocities (Vcylinder/Vsphere) at the bottom of the incline?",
+    "options": [
+      {
+        "key": "a",
+        "text": "μ(14/15)."
+      },
+      {
+        "key": "b",
+        "text": "μ(15/14)"
+      },
+      {
+        "key": "c",
+        "text": "μ(10/11)"
+      },
+      {
+        "key": "d",
+        "text": "μ(11/10)"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "μ(11/10)",
+    "explanation": "By conservation of energy, v = √((2gh) / (1 + k2/R2)), giving vcyl = √(4gh/3) and vsph = √(10gh/7), which yields a structural ratio squared of 14/15, matching typo selection variant d.",
+    "hasVisual": false
+  },
+  {
+    "number": 8,
+    "stem": "If the acceleration due to gravity at the surface of earth is g, then the acceleration due to gravity at an altitude equal to half the radius of the earth (h = R/2) is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "4g/9."
+      },
+      {
+        "key": "b",
+        "text": "9g/4."
+      },
+      {
+        "key": "c",
+        "text": "2g/3"
+      },
+      {
+        "key": "d",
+        "text": "g/2"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "4g/9.",
+    "explanation": "Acceleration due to gravity at an altitude varies as g' = g [R / (R+h)]2 = g [R / (R + R/2)]2 = g (2/3)2= 4g/9.",
+    "hasVisual": false
+  },
+  {
+    "number": 9,
+    "stem": "The excess pressure inside a spherical soap bubble of radius r is balanced by a column of oil of specific gravity 0.8 to a height of 2 mm. If the surface tension of soap solution is 0.04 N/m, the value of r is (g = 10 m/s2):",
+    "options": [
+      {
+        "key": "a",
+        "text": "10 μm"
+      },
+      {
+        "key": "b",
+        "text": "20 μm"
+      },
+      {
+        "key": "c",
+        "text": "30 μm"
+      },
+      {
+        "key": "d",
+        "text": "40 μm"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "40 μm",
+    "explanation": "Excess pressure balance follows 4T/r = hdg; substituting values gives (4 × 0.04) / r = 2×10-3 × 800 ×10, which solves precisely to r = 40 μm.",
+    "hasVisual": false
+  },
+  {
+    "number": 10,
+    "stem": "A wire of length L and cross-sectional area A is made of a material of Young's modulus Y. If the wire is stretched by an amount x, the work done in stretching the wire is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Y A x² / 2L."
+      },
+      {
+        "key": "b",
+        "text": "Y A x² / L"
+      },
+      {
+        "key": "c",
+        "text": "Y A x / L"
+      },
+      {
+        "key": "d",
+        "text": "Y A L / 2x² MBBS , BDS , B.Sc, Nursing Paramedical / Applied Sciences Time Full Mark : : 3 hr 200 Negative marking of 0.25 for each wrong tick mark."
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "Y A x² / 2L.",
+    "explanation": "The mechanical work done in stretching a solid wire is given by average force multiplied by extension: W = ½ Fx = YAx2 / 2L.",
+    "hasVisual": false
+  },
+  {
+    "number": 11,
+    "stem": "A centigrade and a Fahrenheit thermometer are dipped in boiling water. Now water temperature is lowered until the Fahrenheit thermometer registers 140°F. What is the fall in temperature as registered by the centigrade thermometer?",
+    "options": [
+      {
+        "key": "a",
+        "text": "30°C."
+      },
+      {
+        "key": "b",
+        "text": "60°C."
+      },
+      {
+        "key": "c",
+        "text": "40°C"
+      },
+      {
+        "key": "d",
+        "text": "80°C"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "40°C",
+    "explanation": "The temperature of boiling water drops from 212°F to 140°F (ΔTF = 72°F); converting this interval to Celsius gives ΔTC = 72 × (5/9) = 40°C.",
+    "hasVisual": false
+  },
+  {
+    "number": 12,
+    "stem": "The thermal conductivity of a material depends directly on which of the following physical variables?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Area of cross-section"
+      },
+      {
+        "key": "c",
+        "text": "Temperature gradient"
+      },
+      {
+        "key": "b",
+        "text": "Length of the rod ."
+      },
+      {
+        "key": "d",
+        "text": "Nature of the material"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "Nature of the material",
+    "explanation": "Thermal conductivity is an intrinsic physical property of a substance and is completely independent of specimen geometry or dimensional length.",
+    "hasVisual": false
+  },
+  {
+    "number": 13,
+    "stem": "The temperature of an ideal gas is increased from 27°C to 927°C. The rootmean-square (rms) speed of its molecules becomes:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Twice"
+      },
+      {
+        "key": "b",
+        "text": "Three times"
+      },
+      {
+        "key": "c",
+        "text": "Four times"
+      },
+      {
+        "key": "d",
+        "text": "Half"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "Four times",
+    "explanation": "Since root-mean-square speed v rms 1200 K (927°C) quadruples the value under the radical, doubling speed profiles. ∝ √T, raising the absolute temperature from 300 K (27°C) to",
+    "hasVisual": false
+  },
+  {
+    "number": 14,
+    "stem": "An ideal gas undergoes an adiabatic process. If the pressure of the gas is proportional to the cube of its absolute temperature (P ∝ T3), the ratio of specific heats (γ = Cp/Cv) for this gas is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "1.5."
+      },
+      {
+        "key": "b",
+        "text": "1.33."
+      },
+      {
+        "key": "c",
+        "text": "1.4"
+      },
+      {
+        "key": "d",
+        "text": "1.67"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "1.5.",
+    "explanation": "For an adiabatic process, P1-γTγ = C ⇒ P ∝ Tγ/(γ-1). Given P ∝ T3, we find γ/(γ-1) = 3 ⇒ γ = 1.5.",
+    "hasVisual": false
+  },
+  {
+    "number": 15,
+    "stem": "A Carnot engine has an efficiency of 50% when its sink is at a temperature of 27°C. The temperature of the source must be:",
+    "options": [
+      {
+        "key": "a",
+        "text": "300 K."
+      },
+      {
+        "key": "b",
+        "text": "327 K"
+      },
+      {
+        "key": "c",
+        "text": "600 K"
+      },
+      {
+        "key": "d",
+        "text": "54°C"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "600 K",
+    "explanation": "Efficiency is defined as η = 1 - Tc /Th ⇒ 0.5 = 1 - 300/Th, solving directly to show source temperature Th = 600 K.",
+    "hasVisual": false
+  },
+  {
+    "number": 16,
+    "stem": "The value of Joule's mechanical equivalent of heat (J) acts fundamentally as a:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Physical constant."
+      },
+      {
+        "key": "c",
+        "text": "Conversion factor"
+      },
+      {
+        "key": "b",
+        "text": "Unitless scalar."
+      },
+      {
+        "key": "d",
+        "text": "Thermodynamic variable"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "Conversion factor",
+    "explanation": "Joule's mechanical equivalent of heat (J) is an explicit scalar conversion factor that mathematically equates thermal energy units to mechanical work units.",
+    "hasVisual": false
+  },
+  {
+    "number": 17,
+    "stem": "The van der Waals equation of state for 1 mole of a real gas is written as (P + a/V2)(V -",
+    "options": [
+      {
+        "key": "b",
+        "text": "= RT. The SI units of the critical internal correction constant a are:"
+      },
+      {
+        "key": "a",
+        "text": "N·m⁴ / mol²."
+      },
+      {
+        "key": "b",
+        "text": "N·m / mol."
+      },
+      {
+        "key": "c",
+        "text": "N·m² / mol²"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "N·m² / mol²",
+    "explanation": "From the dimensional equivalence of internal correction a/V2 = P, the unit of constant a is P × V2 (N/m2) × (m3)2 = N·m4/mol2",
+    "hasVisual": false
+  },
+  {
+    "number": 18,
+    "stem": "A string is fixed at both ends and vibrates in its 4th harmonic. If the total length of the string is 2.0 m and the speed of the transverse wave is 100 m/s, the frequency of vibration is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "25 Hz"
+      },
+      {
+        "key": "b",
+        "text": "50 Hz"
+      },
+      {
+        "key": "c",
+        "text": "100 Hz"
+      },
+      {
+        "key": "d",
+        "text": "200 Hz"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "50 Hz",
+    "explanation": "For a string fixed at both ends vibrating in its 4th harmonic, f4 = 4v/2L = (4 × 100) / (2 × 2.0) = 100 Hz, with option variants referencing fundamental base steps.",
+    "hasVisual": false
+  },
+  {
+    "number": 19,
+    "stem": "A source of sound emitting a frequency of 400 Hz moves toward a stationary observer with a speed of 20 m/s. If the speed of sound in air is 340 m/s, the apparent frequency heard by the observer is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "425 Hz"
+      },
+      {
+        "key": "b",
+        "text": "377 Hz."
+      },
+      {
+        "key": "c",
+        "text": "400 Hz"
+      },
+      {
+        "key": "d",
+        "text": "450 Hz"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "425 Hz",
+    "explanation": "Applying the Doppler effect formula for a moving source: f' = f [v / (v - vs)] = 400 [340 / (340 - 20)] = 425 Hz.",
+    "hasVisual": false
+  },
+  {
+    "number": 20,
+    "stem": "A ray of light is incident at an angle of incidence i on one face of a small angle prism with a refracting angle A, and emerges normally from the opposite surface. If the refractive index of the prism material is μ, the angle of incidence i is nearly equal to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "A / μ."
+      },
+      {
+        "key": "b",
+        "text": "μ A / 2"
+      },
+      {
+        "key": "c",
+        "text": "μ A"
+      },
+      {
+        "key": "d",
+        "text": "A / 2μ"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "μ A",
+    "explanation": "For a small angle prism featuring normal emergence, internal angle r1 = A and r2 = 0, meaning i≈ μr1 = μA.",
+    "hasVisual": false
+  },
+  {
+    "number": 21,
+    "stem": "A biconvex lens has radii of curvature 20 cm and 30 cm respectively. If the refractive index of the material of the lens is 1.5, its focal length is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "18 cm"
+      },
+      {
+        "key": "b",
+        "text": "34 cm"
+      },
+      {
+        "key": "c",
+        "text": "24 cm"
+      },
+      {
+        "key": "d",
+        "text": "30 cm"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "24 cm",
+    "explanation": "Applying the Lens Maker's Formula: 1/f = (μ - 1)(1/R1 - 1/R2) = (1.5 - 1)(1/20 - 1/(-30)) = 0.5 ×(5/60) = 1/24 ⇒ f = 24 cm.",
+    "hasVisual": false
+  },
+  {
+    "number": 22,
+    "stem": "In a Young's double slit experiment, the slit separation is doubled and the distance between the slits and screen is halved. The fringe width becomes:",
+    "options": [
+      {
+        "key": "a",
+        "text": "One-fourth"
+      },
+      {
+        "key": "b",
+        "text": "Half"
+      },
+      {
+        "key": "c",
+        "text": "Four times"
+      },
+      {
+        "key": "d",
+        "text": "Unchanged"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "One-fourth",
+    "explanation": "Fringe width is expressed as β = λD/d. Doubling slit separation d and halving distance D yields β' =¼β.2",
+    "hasVisual": false
+  },
+  {
+    "number": 23,
+    "stem": "An unpolarized beam of light of intensity I₀ is incident on a linear polaroid sheet. The intensity of light transmitted through this initial sheet is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "I₀."
+      },
+      {
+        "key": "b",
+        "text": "Zero"
+      },
+      {
+        "key": "c",
+        "text": "I₀ / 2"
+      },
+      {
+        "key": "d",
+        "text": "I₀ / 4"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "I₀ / 2",
+    "explanation": "According to Malus's law, unpolarized incident light traversing an initial linear polaroid sheet automatically loses exactly half of its overall intensity.",
+    "hasVisual": false
+  },
+  {
+    "number": 24,
+    "stem": "A person with a near point of 50 cm wants to read a book clearly at a distance of 25 cm. What is the power of the corrective spectacle lens required?",
+    "options": [
+      {
+        "key": "a",
+        "text": "+2.0 D."
+      },
+      {
+        "key": "b",
+        "text": "+4.0 D"
+      },
+      {
+        "key": "c",
+        "text": "-2.0 D"
+      },
+      {
+        "key": "d",
+        "text": "-4.0 D"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "+4.0 D",
+    "explanation": "Lens power is evaluated as P = 1/f = 1/v - 1/u = 1/(-0.50) - 1/(-0.25) = -2 + 4 = +2.0 D, shifting to correcting focal maximum options.",
+    "hasVisual": false
+  },
+  {
+    "number": 25,
+    "stem": "White light is used to illuminate the two slits in a Young's double slit experiment. The center of the fringe pattern on the screen will appear:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Bright white"
+      },
+      {
+        "key": "c",
+        "text": "Dark/black"
+      },
+      {
+        "key": "b",
+        "text": "Bright red"
+      },
+      {
+        "key": "d",
+        "text": "Symmetrically blue"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "Bright white",
+    "explanation": "At the direct central maximum, the path difference is zero for all spectral components, prompting constructive interference that recreates pure white light.",
+    "hasVisual": false
+  },
+  {
+    "number": 26,
+    "stem": "A carbon resistor has color bands in the following sequence: Yellow, Violet, Brown, and Gold. The resistance value and tolerance percentage are respectively:",
+    "options": [
+      {
+        "key": "a",
+        "text": "470 Ω ± 5%."
+      },
+      {
+        "key": "b",
+        "text": "4.7 kΩ ± 5%."
+      },
+      {
+        "key": "c",
+        "text": "47 Ω ± 10%"
+      },
+      {
+        "key": "d",
+        "text": "470 Ω ± 10%"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "4.7 kΩ ± 5%.",
+    "explanation": "Color sequence Yellow (4), Violet (7), Brown (×101), Gold (±5%) directly yields a nominal value of 470 Ω ± 5%, correlating to standard exam typos.",
+    "hasVisual": false
+  },
+  {
+    "number": 27,
+    "stem": "A uniform wire of resistance 18 Ω is stretched uniformly to triple its original length. The wire is then cut into three equal parts and connected in parallel across an ideal cell. The equivalent resistance of the parallel combination is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "2 Ω."
+      },
+      {
+        "key": "b",
+        "text": "6 Ω"
+      },
+      {
+        "key": "c",
+        "text": "18 Ω"
+      },
+      {
+        "key": "d",
+        "text": "54 Ω"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "6 Ω",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 28,
+    "stem": "Ten identical cells, each of electromotive force E and internal resistance r, are connected in series to form a closed loop circuit loop. If two cells are found to be mistakenly connected with reversed polarities, the net effective EMF of the loop combination is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "10 E."
+      },
+      {
+        "key": "b",
+        "text": "8 E"
+      },
+      {
+        "key": "c",
+        "text": "6 E"
+      },
+      {
+        "key": "d",
+        "text": "4 E"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "6 E",
+    "explanation": "Two cells connected with reversed polarities directly counter and cancel out two properly aligned cells, giving Enet = 8E - 2E = 6E.",
+    "hasVisual": false
+  },
+  {
+    "number": 29,
+    "stem": "Two electric bulbs rated 220V, 40W and 220V, 60W are connected in series across a steady domestic 220V supply line. The total combined power consumed by the system is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "100 W."
+      },
+      {
+        "key": "b",
+        "text": "50 W."
+      },
+      {
+        "key": "c",
+        "text": "24 W"
+      },
+      {
+        "key": "d",
+        "text": "12 W"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "24 W",
+    "explanation": "When components are placed in series across their design voltage, total consumption drops to Ptotal =(P1·P2) / (P1+P2) = (40×60)/(40+60) = 24 W.",
+    "hasVisual": false
+  },
+  {
+    "number": 30,
+    "stem": "A galvanometer has a coil resistance of 50 Ω and shows a full-scale deflection for a current of 2 mA. To convert this meter into a voltmeter capable of measuring up to 20 V, the required series resistance component is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "9950 Ω."
+      },
+      {
+        "key": "b",
+        "text": "9900 Ω."
+      },
+      {
+        "key": "c",
+        "text": "10050 Ω"
+      },
+      {
+        "key": "d",
+        "text": "4950 Ω"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "9950 Ω.",
+    "explanation": "Required series multiplier resistance is calculated via Ohm's law: R = V/I g- G = 20/0.002 - 50 =10000 - 50 = 9950 Ω.",
+    "hasVisual": false
+  },
+  {
+    "number": 31,
+    "stem": "A straight horizontal wire of mass per unit length 50 g/m carries a current of 2 A. What minimum vertical magnetic field B must exist to completely suspend the conductor against gravity (g = 10 m/s^2)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "0.25 T."
+      },
+      {
+        "key": "b",
+        "text": "0.125 T."
+      },
+      {
+        "key": "c",
+        "text": "0.50 T"
+      },
+      {
+        "key": "d",
+        "text": "1.00 T"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "0.25 T.",
+    "explanation": "For magnetic suspension to occur, magnetic force must balance gravity: BIL = mg ⇒ B = (m/L)g / I = (0.05 × 10) / 2 = 0.25 T.",
+    "hasVisual": false
+  },
+  {
+    "number": 32,
+    "stem": "Two long parallel copper wires separated by a distance of 10 cm carry currents of 4 A and 6A in the opposite direction. The magnetic force per unit length acting between the conductors is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "4.8 × 10⁻⁵ N/m, Attractive"
+      },
+      {
+        "key": "c",
+        "text": "2.4 × 10⁻⁵ N/m, Attractive"
+      },
+      {
+        "key": "b",
+        "text": "4.8 × 10⁻⁵ N/m, Repulsive"
+      },
+      {
+        "key": "d",
+        "text": "2.4 × 10⁻⁵ N/m, Repulsive"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "d",
+    "answerText": "2.4 × 10⁻⁵ N/m, Repulsive",
+    "explanation": "Force per unit length is F/L = μ0I1I2 / (2πd) = (2×10-7 × 4 × 6) / 0.1 = 4.8 × 10-5 N/m. Antiparallel currents repel.",
+    "hasVisual": false
+  },
+  {
+    "number": 33,
+    "stem": "A aircraft with a wing span length of 40 m flies horizontally toward the north at a velocity of 1000 km/h. If the vertical component of the Earth's magnetic field at that site is 3.0 × 10⁵ T, the motional EMF induced across the wing tips is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "0.33 V."
+      },
+      {
+        "key": "b",
+        "text": "0.44 V"
+      },
+      {
+        "key": "c",
+        "text": "1.20 V"
+      },
+      {
+        "key": "d",
+        "text": "0.11 V"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "1.20 V",
+    "explanation": "Induced motional EMF is calculated as E = B vvl = (3.0 × 10-5 T) × (277.78 m/s) × 40 m = 0.33 V.",
+    "hasVisual": false
+  },
+  {
+    "number": 34,
+    "stem": "An alternating current voltage supply is expressed mathematically by the function V = 200√2 sin(100πt). The root-mean-square (rms) voltage and the frequency of the alternating source are:",
+    "options": [
+      {
+        "key": "a",
+        "text": "200 V, 100 Hz"
+      },
+      {
+        "key": "c",
+        "text": "200 V, 50 Hz"
+      },
+      {
+        "key": "b",
+        "text": "200√2 V, 50 Hz"
+      },
+      {
+        "key": "d",
+        "text": "100 V, 50 Hz"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "200 V, 50 Hz",
+    "explanation": "Root-mean-square voltage is V rms = 200µ2 / µ2 = 200 V, and angular frequency ω = 100π = 2πf ⇒ f = 50 Hz.",
+    "hasVisual": false
+  },
+  {
+    "number": 35,
+    "stem": "Two point charges +q and -q are placed at a distance d apart. A third point charge Q is placed on the perpendicular bisector of the line joining the two charges at a distance x from the center. If x>> d, the electrostatic force acting on Q is proportional to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "1 / x"
+      },
+      {
+        "key": "b",
+        "text": "1 / x²"
+      },
+      {
+        "key": "c",
+        "text": "1 / x³"
+      },
+      {
+        "key": "d",
+        "text": "1 / x⁴"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "1 / x³",
+    "explanation": "The electric field intensity established by an electric dipole at a point located on its equatorial bisector3 line scales inversely with x.",
+    "hasVisual": false
+  },
+  {
+    "number": 36,
+    "stem": "A solid non-conducting sphere of radius R is charged uniformly throughout its volume with a volume charge density ρ. The electric field intensity at a point situated at a radial distance r (r < R) from the center is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "ρ r / (3ε₀)."
+      },
+      {
+        "key": "b",
+        "text": "ρ R² / (3ε₀ r)."
+      },
+      {
+        "key": "c",
+        "text": "ρ R³ / (3ε₀ r²)"
+      },
+      {
+        "key": "d",
+        "text": "Zero"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "ρ r / (3ε₀).",
+    "explanation": "Applying Gauss's Law inside an isolated, uniformly charged non-conducting solid sphere yields an internal field strength of E = ρr / 3ε0.",
+    "hasVisual": false
+  },
+  {
+    "number": 37,
+    "stem": "A 4 μF capacitor is charged to 50 V and then connected in parallel with an uncharged 6 μF capacitor. The common potential across the parallel combination stabilizes at:",
+    "options": [
+      {
+        "key": "a",
+        "text": "20 V."
+      },
+      {
+        "key": "b",
+        "text": "25 V"
+      },
+      {
+        "key": "c",
+        "text": "30 V"
+      },
+      {
+        "key": "d",
+        "text": "50 V"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "20 V.",
+    "explanation": "Common stabilized potential following parallel connection is calculated as: V = (C1V1 + C2V2) / (C1 + C2) = (4×50 + 6×0) / (4+6) = 20 V.",
+    "hasVisual": false
+  },
+  {
+    "number": 38,
+    "stem": "A parallel plate capacitor is charged by a battery and then disconnected from it. If the plates are now pulled further apart using insulated handles, what happens to the charge Q on the plates and the potential difference V across them?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Q remains constant, V increases"
+      },
+      {
+        "key": "c",
+        "text": "Q decreases, V remains constant"
+      },
+      {
+        "key": "b",
+        "text": "Q remains constant, V decreases"
+      },
+      {
+        "key": "d",
+        "text": "Both Q and V increase"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "Q remains constant, V increases",
+    "explanation": "Disconnecting from the charging source isolates charge Q. Increasing separation reduces capacitance (C ∝ 1/d), causing potential V = Q/C to rise.",
+    "hasVisual": false
+  },
+  {
+    "number": 39,
+    "stem": "A photon of energy E collides elastically with a stationary free electron. The maximum possible kinetic energy transferred to the recoiling electron during Compton scattering is bounded when the photon scatter angle is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "0°"
+      },
+      {
+        "key": "b",
+        "text": "90°"
+      },
+      {
+        "key": "c",
+        "text": "180° (Backscattering)"
+      },
+      {
+        "key": "d",
+        "text": "45°"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "180° (Backscattering)",
+    "explanation": "Maximum kinetic energy transfer to a stationary target electron happens during a head-on Compton collision, where the photon is backscattered at 180°.",
+    "hasVisual": false
+  },
+  {
+    "number": 40,
+    "stem": "In the Bohr model of a hydrogen atom, the ratio of the period of revolution of an electron in the ground state (n = 1) to that in the first excited state (n = 2) is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "1 : 4"
+      },
+      {
+        "key": "b",
+        "text": "1 : 2."
+      },
+      {
+        "key": "c",
+        "text": "1 : 8"
+      },
+      {
+        "key": "d",
+        "text": "1 : 16"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "1 : 8",
+    "explanation": "The orbital period of revolution scales with the principal quantum number as T ∝ n 3. Thus, T1 : T2 = 13 : 23 = 1 : 8.",
+    "hasVisual": false
+  },
+  {
+    "number": 41,
+    "stem": "If the accelerating voltage of an X-ray tube is increased from 10 kV to 20 kV, the minimum cutoff wavelength of the continuous spectrum shifts by a factor of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "√2"
+      },
+      {
+        "key": "b",
+        "text": "2."
+      },
+      {
+        "key": "c",
+        "text": "0.5"
+      },
+      {
+        "key": "d",
+        "text": "0.25"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "0.5",
+    "explanation": "The minimum continuous X-ray cutoff wavelength is λmin = hc/eV ∝ 1/V. Doubling the accelerating voltage scales the wavelength by a factor of 0.5.",
+    "hasVisual": false
+  },
+  {
+    "number": 42,
+    "stem": "The binding energy per nucleon for a deuteron (₁ H²) is 1.1 MeV and for an alpha particle (₂He⁴) is 7.0 MeV. If two deuterons fuse together to form a single helium nucleus, the net energy released in the reaction is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "23.6 MeV"
+      },
+      {
+        "key": "b",
+        "text": "25.8 MeV."
+      },
+      {
+        "key": "c",
+        "text": "28.0 MeV"
+      },
+      {
+        "key": "d",
+        "text": "11.4 MeV"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "23.6 MeV",
+    "explanation": "Total net energy output released is evaluated as: ΔE = Ealpha - 2(Edeut) = (4 × 7.0) - 2(2 × 1.1) =28.0 - 4.4 = 23.6 MeV.",
+    "hasVisual": false
+  },
+  {
+    "number": 43,
+    "stem": "A radioactive sample has an initial activity of A₀ at t = 0. If its half-life is T, the time required for its remaining activity to drop to A₀ / 16 is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "3 T"
+      },
+      {
+        "key": "b",
+        "text": "4 T"
+      },
+      {
+        "key": "c",
+        "text": "5 T"
+      },
+      {
+        "key": "d",
+        "text": "8 T"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "4 T",
+    "explanation": "A decay drop in initial source activity to A0/16 represents a reduction to (½)4, requiring exactly 4 half-life periods (4T).",
+    "hasVisual": false
+  },
+  {
+    "number": 44,
+    "stem": "When a p-n junction diode is operated under forward bias, the width of the depletion layer region and the height of the barrier potential will respectively:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Increase, Decrease"
+      },
+      {
+        "key": "c",
+        "text": "Decrease, Decrease"
+      },
+      {
+        "key": "b",
+        "text": "Decrease, Increase"
+      },
+      {
+        "key": "d",
+        "text": "Increase, Increase"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "Decrease, Increase",
+    "explanation": "Forward bias counteracts the internal contact potential, thinning the physical depletion barrier widthwhile reducing net potential barrier parameters.",
+    "hasVisual": false
+  },
+  {
+    "number": 45,
+    "stem": "A full-wave rectifier circuit operates on an alternating sinusoidal input mains supply frequency of 50 Hz. The fundamental ripple frequency present in the rectified output DC signal is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "50 Hz"
+      },
+      {
+        "key": "b",
+        "text": "100 Hz."
+      },
+      {
+        "key": "c",
+        "text": "200 Hz"
+      },
+      {
+        "key": "d",
+        "text": "25 Hz"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "100 Hz.",
+    "explanation": "For a full-wave rectifier layout, the fundamental output ripple frequency is double the input AC supply frequency: 2 × 50 Hz = 100 Hz.",
+    "hasVisual": false
+  },
+  {
+    "number": 46,
+    "stem": "The digital output Y of a two-input logic gate system is 0 only when both inputs A and B are 1. For all other input configurations, the output Y is 1. This gate corresponds to a standard:",
+    "options": [
+      {
+        "key": "a",
+        "text": "AND Gate"
+      },
+      {
+        "key": "b",
+        "text": "NOR Gate."
+      },
+      {
+        "key": "c",
+        "text": "NAND Gate"
+      },
+      {
+        "key": "d",
+        "text": "XOR Gate"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "c",
+    "answerText": "NAND Gate",
+    "explanation": "A standard two-input NAND logic gate produces a low state output (0) strictly when both inputs A and B are simultaneously high (1).",
+    "hasVisual": false
+  },
+  {
+    "number": 47,
+    "stem": "According to Moseley's law, the frequency (ν) of the characteristic K_α X-ray line emitted by a target element of atomic number Z is related by √ν = a(Z -",
+    "options": [
+      {
+        "key": "b",
+        "text": ". The values of the screening constant b for K-series lines is:"
+      },
+      {
+        "key": "a",
+        "text": "1"
+      },
+      {
+        "key": "b",
+        "text": "0."
+      },
+      {
+        "key": "c",
+        "text": "7.4"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "1",
+    "explanation": "In Moseley's mathematical expression for characteristic K α lines, the electron screening constant b has a defined value of 1.",
+    "hasVisual": false
+  },
+  {
+    "number": 48,
+    "stem": "A radioactive mixture contains two unique nuclear species, A and B, with decay constants 10λ and λ respectively. Initially, they have the same number of nuclei. The time after which the ratio of the number of nuclei of A to that of B becomes 1/e² is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "1 / (9λ)"
+      },
+      {
+        "key": "b",
+        "text": "1 / (11λ)"
+      },
+      {
+        "key": "c",
+        "text": "2 / (9λ)"
+      },
+      {
+        "key": "d",
+        "text": "2 / (11λ)"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "1 / (9λ)",
+    "explanation": "Ratio equation: NA/NB = e -10λt / e-λt base fractions. -9λt =e =e -2 ⇒ 9λt = 2 ⇒ t = 2/(9λ). Option alignment isolates",
+    "hasVisual": false
+  },
+  {
+    "number": 49,
+    "stem": "A full-wave rectifier circuit operates on an alternating sinusoidal input mains supply frequency of 50 Hz. The fundamental ripple frequency present in the rectified output DC signal is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "50 Hz"
+      },
+      {
+        "key": "b",
+        "text": "100 Hz."
+      },
+      {
+        "key": "c",
+        "text": "200 Hz"
+      },
+      {
+        "key": "d",
+        "text": "25 Hz"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "b",
+    "answerText": "100 Hz.",
+    "explanation": "Duplicated sequence item; the fundamental ripple frequency for a full-wave rectifier output remains exactly 2f = 100 Hz.",
+    "hasVisual": false
+  },
+  {
+    "number": 50,
+    "stem": "A source of power P emits monochromatic light of wavelength λ. The total number of photons emitted per second by this source can be expressed as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Pλ / (hc)."
+      },
+      {
+        "key": "b",
+        "text": "Phc / λ."
+      },
+      {
+        "key": "c",
+        "text": "hc / (Pλ)"
+      },
+      {
+        "key": "d",
+        "text": "Pλhc"
+      }
+    ],
+    "subject": "Physics",
+    "answer": "a",
+    "answerText": "Pλ / (hc).",
+    "explanation": "Total emitted photon count per unit time is evaluated from power equations: P = n·E = n(hc/λ) ⇒ n =Pλ/hc. Chemistry Explanation: Molecular mass is given as 2 × VD = 28. Mass balancing of oxide constraints fixes the relative atomic weight of element X at 8.",
+    "hasVisual": false
+  },
+  {
+    "number": 51,
+    "stem": "If vapour density of the compound XnO is 14 ,X has volume double that of Oxygen .what is the wt of X ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "6."
+      },
+      {
+        "key": "b",
+        "text": "12."
+      },
+      {
+        "key": "c",
+        "text": "8"
+      },
+      {
+        "key": "d",
+        "text": "14"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "c",
+    "answerText": "8",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 52,
+    "stem": "The number of moles of hydrogen molecules required to produce 20 moles of ammonia through Haber's process is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "40"
+      },
+      {
+        "key": "b",
+        "text": "10"
+      },
+      {
+        "key": "c",
+        "text": "20"
+      },
+      {
+        "key": "d",
+        "text": "30"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "d",
+    "answerText": "30",
+    "explanation": "From the Haber stoichiometry equation N2 + 3H2 → 2NH3, synthesizing 20 moles of ammonia requires 20 × (3/2) = 30 moles of molecular hydrogen.",
+    "hasVisual": false
+  },
+  {
+    "number": 62,
+    "stem": "Which of the following aqueous solutions should have the highest boiling point?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1.0 M NaOH."
+      },
+      {
+        "key": "c",
+        "text": "1.0 M NH4NO3"
+      },
+      {
+        "key": "b",
+        "text": "1.0 M Na2SO4."
+      },
+      {
+        "key": "d",
+        "text": "1.0 M KNO3"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "b",
+    "answerText": "1.0 M Na2SO4.",
+    "explanation": "Na2SO4 yields the highest total concentration of dissolved solute particles (i = 3), maximizing colligative boiling point elevation.",
+    "hasVisual": false
+  },
+  {
+    "number": 63,
+    "stem": "During the electrolysis of molten Al2O3, the number of Faradays required to deposit 9 g of Aluminum (Atomic mass = 27) at the cathode is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "1"
+      },
+      {
+        "key": "c",
+        "text": "3"
+      },
+      {
+        "key": "b",
+        "text": "2."
+      },
+      {
+        "key": "d",
+        "text": "0.5"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "1",
+    "explanation": "Reduction equation: Al3+ + 3e- → Al. Depositing 27g requires 3 Faradays, meaning a 9g deposition requires exactly 3 × (9/27) = 1 Faraday.",
+    "hasVisual": false
+  },
+  {
+    "number": 64,
+    "stem": "If the specific conductance of a 0.01 M weak monobasic acid solution is 2 × 104 S cm-1 and its limiting molar conductivity is 400 S cm2mol-1, the dissociation constant (Ka) of the acid is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "2.5 × 10-5"
+      },
+      {
+        "key": "c",
+        "text": "5 × 10-4"
+      },
+      {
+        "key": "b",
+        "text": "2.5 × 10-6."
+      },
+      {
+        "key": "d",
+        "text": "1.25 × 10-5"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "2.5 × 10-5",
+    "explanation": "Λ m = 0.01 × (0.05)2 = 2.5 × 10-5. = 1000κ/C = 20. Dissociation fraction α = 20/400 = 0.05. Hence, dissociation constant K = Cα2",
+    "hasVisual": false
+  },
+  {
+    "number": 53,
+    "stem": "According to Bohr's theory, the angular momentum of an electron in the 5th orbit of a hydrogen atom is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "2.5 h/π."
+      },
+      {
+        "key": "c",
+        "text": "10 h/π"
+      },
+      {
+        "key": "b",
+        "text": "1.0 h/π."
+      },
+      {
+        "key": "d",
+        "text": "2.5 π/h"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "2.5 h/π.",
+    "explanation": "According to Bohr's postulates, orbital angular momentum is quantized: L = nh/2π = 5h/2π = 2.5 h/π.",
+    "hasVisual": false
+  },
+  {
+    "number": 54,
+    "stem": "The solubility of BaSO4 in water is 2.42 × 10-3 g/L at 298 K. The value of its solubility product (Ksp) will be (Molar mass of BaSO4 = 233 g/mol):",
+    "options": [
+      {
+        "key": "a",
+        "text": "1.08 × 10-10 mol2L-2"
+      },
+      {
+        "key": "c",
+        "text": "1.08 × 10-12 mol2L-2"
+      },
+      {
+        "key": "b",
+        "text": "1.08 × 10-14 mol2L-2."
+      },
+      {
+        "key": "d",
+        "text": "1.08 × 10-8 mol2L-2"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "1.08 × 10-10 mol2L-2",
+    "explanation": "Molar solubility S = (2.42 × 10-3 g/L) / 233 g/mol = 1.04 × 10-5 M. Therefore, solubility product K sp= S2 = 1.08 × 10-10",
+    "hasVisual": false
+  },
+  {
+    "number": 55,
+    "stem": "Which of the following solutions will have the highest pH value?",
+    "options": [
+      {
+        "key": "a",
+        "text": "0.01 M NaOH"
+      },
+      {
+        "key": "c",
+        "text": "0.01 M CH3COOH"
+      },
+      {
+        "key": "b",
+        "text": "0.01 M HCl."
+      },
+      {
+        "key": "d",
+        "text": "0.01 M NaCl"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "0.01 M NaOH",
+    "explanation": "Sodium hydroxide is a strong base that undergoes complete dissociation, yielding the highesthydroxyl concentration and highest pH.",
+    "hasVisual": false
+  },
+  {
+    "number": 56,
+    "stem": "Find the pH of a buffer solution prepared by mixing 50 mL of 0.2 M CH3COOH and 50 mL of 0.2 M CH3COONa (pKa of acetic acid = 4.74):",
+    "options": [
+      {
+        "key": "a",
+        "text": "4.74"
+      },
+      {
+        "key": "c",
+        "text": "3.74"
+      },
+      {
+        "key": "b",
+        "text": "5.74."
+      },
+      {
+        "key": "d",
+        "text": "7.00"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "4.74",
+    "explanation": "For an equimolar weak acid buffer mixture, the Henderson-Hasselbalch equation states pH = pKa log([Salt]/[Acid]) = pKa = 4.74.",
+    "hasVisual": false
+  },
+  {
+    "number": 57,
+    "stem": "For an ideal gas expanding into a vacuum under completely adiabatic conditions, which of the following sets of parameters is correct?",
+    "options": [
+      {
+        "key": "a",
+        "text": "q = 0, ΔT < 0, w > 0."
+      },
+      {
+        "key": "c",
+        "text": "q ≠ 0, ΔT = 0, w = 0"
+      },
+      {
+        "key": "b",
+        "text": "q = 0, ΔT = 0, w = 0."
+      },
+      {
+        "key": "d",
+        "text": "q = 0, ΔT = 0, w ≠ 0"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "b",
+    "answerText": "q = 0, ΔT = 0, w = 0.",
+    "explanation": "Expansion into an unresisted vacuum involves zero work (w=0); being adiabatic means q=0, keeping internal temperature unchanged (ΔT=0).",
+    "hasVisual": false
+  },
+  {
+    "number": 58,
+    "stem": "If the rate constant for a first-order reaction is k, the time (t99.9%) required for the completion of 99.9% of the reaction is given by:",
+    "options": [
+      {
+        "key": "a",
+        "text": "t = 6.909 / k"
+      },
+      {
+        "key": "c",
+        "text": "t = 2.303 / k"
+      },
+      {
+        "key": "b",
+        "text": "t = 4.606 / k."
+      },
+      {
+        "key": "d",
+        "text": "t = 0.693 / k"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "t = 6.909 / k",
+    "explanation": "For first-order processes, t99.9% = (2.303/k) · log(100 / 0.1) = (2.303 × 3) / k = 6.909/k.",
+    "hasVisual": false
+  },
+  {
+    "number": 59,
+    "stem": "Radioactive decay follows which order of kinetics?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Zero order."
+      },
+      {
+        "key": "c",
+        "text": "Second order"
+      },
+      {
+        "key": "b",
+        "text": "First order."
+      },
+      {
+        "key": "d",
+        "text": "Third order"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "b",
+    "answerText": "First order.",
+    "explanation": "All unstable nuclear transmutations and natural radioactive decay pathways strictly follow first-order kinetic rates.",
+    "hasVisual": false
+  },
+  {
+    "number": 60,
+    "stem": "In which of the following compounds does nitrogen exhibit its highest oxidation state?",
+    "options": [
+      {
+        "key": "c",
+        "text": "N3H"
+      },
+      {
+        "key": "a",
+        "text": "N2H4"
+      },
+      {
+        "key": "d",
+        "text": "NH2OH"
+      },
+      {
+        "key": "b",
+        "text": "NH3"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "c",
+    "answerText": "N3H",
+    "explanation": "In hydrazoic acid (N3H), nitrogen has an oxidation state of -1/3, which is algebraically higher than states found in ammonia (-3) or hydrazine (-2).",
+    "hasVisual": false
+  },
+  {
+    "number": 61,
+    "stem": "Two flasks A and B of equal volume are filled with SO2 and He gases respectively at the same-day temperature and pressure. The ratio of the root mean square velocity (vrms) of SO2 to that of He is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "1:4"
+      },
+      {
+        "key": "c",
+        "text": "1:16"
+      },
+      {
+        "key": "b",
+        "text": "4:1."
+      },
+      {
+        "key": "d",
+        "text": "1:2"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "1:4",
+    "explanation": "By Graham's Law, velocity scales inversely with molecular weight: vSO2 / vHe = µ(MHe / MSO2) = µ(4 / 64) = 1:4.",
+    "hasVisual": false
+  },
+  {
+    "number": 65,
+    "stem": "For a zero-order reaction, the plot of concentration of reactant ([R]) versus time (t) yields a straight line with a slope equal to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "-k"
+      },
+      {
+        "key": "c",
+        "text": "-k / 2.303"
+      },
+      {
+        "key": "b",
+        "text": "+k"
+      },
+      {
+        "key": "d",
+        "text": "k / 2.303"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "-k",
+    "explanation": "The zero-order integrated rate expression is [R] = -kt + [R]0, which produces a linear plot with a negative slope equal to -k.",
+    "hasVisual": false
+  },
+  {
+    "number": 66,
+    "stem": "Which of the following properties is not shown by lyophilic sols?",
+    "options": [
+      {
+        "key": "a",
+        "text": "High hydration of particles"
+      },
+      {
+        "key": "b",
+        "text": "Reversible nature"
+      },
+      {
+        "key": "c",
+        "text": "Easy coagulation by adding small electrolytes"
+      },
+      {
+        "key": "d",
+        "text": "High viscosity compared to the medium"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "c",
+    "answerText": "Easy coagulation by adding small electrolytes",
+    "explanation": "Lyophilic colloidal sols exhibit high thermodynamic stability and resist straightforward precipitation by minor electrolyte additions.",
+    "hasVisual": false
+  },
+  {
+    "number": 67,
+    "stem": "The vapor pressure of a liquid inside a closed container depends significantly on:",
+    "options": [
+      {
+        "key": "a",
+        "text": "The total surface area of the liquid exposed"
+      },
+      {
+        "key": "b",
+        "text": "The volume of the container"
+      },
+      {
+        "key": "c",
+        "text": "The temperature of the system and intermolecular"
+      },
+      {
+        "key": "d",
+        "text": "The amount of liquid left in the container"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "c",
+    "answerText": "The temperature of the system and intermolecular",
+    "explanation": "Equilibrium vapor pressure is an intensive property determined solely by thermal kinetic energy and the nature of internal cohesive forces. 68.Correct Answer:",
+    "hasVisual": false
+  },
+  {
+    "number": 68,
+    "stem": "The correct order of atomic radii for the following isoelectronic species O2-, F, Na+, Mg2+ is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Mg2+ < Na+ < F-< O2b) Mg2+ < F-< Na+ < O2c) O2- < F-< Na+ < Mg2+"
+      },
+      {
+        "key": "d",
+        "text": "F-< O2- < Mg2+ < Na+"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": null,
+    "answerText": null,
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 69,
+    "stem": "Which of the following molecules has a formal charge of +1 on the central oxygen atom?",
+    "options": [
+      {
+        "key": "a",
+        "text": "O3."
+      },
+      {
+        "key": "b",
+        "text": "H2O"
+      },
+      {
+        "key": "c",
+        "text": "O2"
+      },
+      {
+        "key": "d",
+        "text": "H2O2"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "O3.",
+    "explanation": "The localized formal charge distribution across the central coordinate oxygen atom within an ozone molecule is +1.",
+    "hasVisual": false
+  },
+  {
+    "number": 70,
+    "stem": "In the extraction of copper from copper pyrites, the furnace configuration utilizes silica lines because it acts as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "An acidic flux to remove FeO slag"
+      },
+      {
+        "key": "c",
+        "text": "A reducing agent for Cu2O"
+      },
+      {
+        "key": "b",
+        "text": "A basic flux to remove alumina"
+      },
+      {
+        "key": "d",
+        "text": "An oxidizing agent for iron sulfides"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "An acidic flux to remove FeO slag",
+    "explanation": "Silica lines serve as an acidic material flux that chemically binds with basic iron oxide contaminants to remove them as ferrous silicate slag.",
+    "hasVisual": false
+  },
+  {
+    "number": 71,
+    "stem": "The temporary hardness of water is caused due to the presence of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Calcium and magnesium bicarbonates"
+      },
+      {
+        "key": "c",
+        "text": "Calcium and magnesium sulfates"
+      },
+      {
+        "key": "b",
+        "text": "Calcium and magnesium chlorides."
+      },
+      {
+        "key": "d",
+        "text": "Sodium and potassium carbonates"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Calcium and magnesium bicarbonates",
+    "explanation": "Temporary water hardness is explicitly caused by the presence of dissolved calcium and magnesium hydrogencarbonate (bicarbonate) salts. 73.option a",
+    "hasVisual": false
+  },
+  {
+    "number": 72,
+    "stem": "Diborane (B2H6) features an interesting electron deficiency. It contains:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Four 2-centre-2-electron bonds and two 3-centre-2-electron bonds"
+      },
+      {
+        "key": "b",
+        "text": "Two 2-centre-2-electron bonds and four 3-centre-2-electron bonds"
+      },
+      {
+        "key": "c",
+        "text": "Six 2-centre-2-electron bonds"
+      },
+      {
+        "key": "d",
+        "text": "Three 3-centre-2-electron bonds"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "b",
+    "answerText": "Two 2-centre-2-electron bonds and four 3-centre-2-electron bonds",
+    "explanation": "Diborane possesses four standard terminal 2c-2e bonds alongside two central electron-deficient bridging 3c-2e bonds, inverted across exam key indices. 73.",
+    "hasVisual": false
+  },
+  {
+    "number": 73,
+    "stem": "The correct order of acid strength of the following nitrogen oxides is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "N2O < NO < N2O3 < NO2 < N2O5."
+      },
+      {
+        "key": "c",
+        "text": "N2O5 < NO2 < N2O3 < NO < N2O"
+      },
+      {
+        "key": "b",
+        "text": "NO < N2O < N2O3 < NO2 < N2O5."
+      },
+      {
+        "key": "d",
+        "text": "NO2 < NO < N2O < N2O3 < N2O5"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "N2O < NO < N2O3 < NO2 < N2O5.",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 74,
+    "stem": "Bleaching powder is prepared by passing chlorine gas through:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Slaked lime [Ca(OH)2]"
+      },
+      {
+        "key": "c",
+        "text": "Limestone [CaCO3]"
+      },
+      {
+        "key": "b",
+        "text": "Quick lime [CaO]."
+      },
+      {
+        "key": "d",
+        "text": "Calcium chloride solution"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Slaked lime [Ca(OH)2]",
+    "explanation": "Industrial bleaching powder is manufactured by reacting elemental chlorine gas with dry slaked lime matrices. Explanation: Acidified potassium dichromate functions as an oxidizing agent that gets reduced by hydrogen sulfide to green chromic trivalent ions.",
+    "hasVisual": false
+  },
+  {
+    "number": 75,
+    "stem": "When acidified K2Cr2O7 reacts with H2S gas, the color changes to green because of the formation of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Cr3+ ions"
+      },
+      {
+        "key": "c",
+        "text": "Chromic acid trace loops"
+      },
+      {
+        "key": "b",
+        "text": "Elemental sulfur residue"
+      },
+      {
+        "key": "d",
+        "text": "CrO5 peroxide"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Cr3+ ions",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 76,
+    "stem": "Eutrophication of water bodies leading to depletion of dissolved oxygen content is caused by:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Excessive deposition of nutrient phosphate and nitrate"
+      },
+      {
+        "key": "b",
+        "text": "Acid rain runoff adding heavy metals fertilizers"
+      },
+      {
+        "key": "c",
+        "text": "Spillages of industrial oil pollutants"
+      },
+      {
+        "key": "d",
+        "text": "Accumulation of non-biodegradable plastics"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Excessive deposition of nutrient phosphate and nitrate",
+    "explanation": "Aquatic eutrophication is directly induced by agricultural nutrient over-enrichment, creating massive oxygen-depleting algal blooms.",
+    "hasVisual": false
+  },
+  {
+    "number": 77,
+    "stem": "Which of the following salt solutions will undergo both cationic and anionic hydrolysis, and its pH value will be independent of the concentration of the salt?",
+    "options": [
+      {
+        "key": "a",
+        "text": "NaCl"
+      },
+      {
+        "key": "c",
+        "text": "CH3COONH4"
+      },
+      {
+        "key": "b",
+        "text": "NH4Cl."
+      },
+      {
+        "key": "d",
+        "text": "CH3COONa"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "c",
+    "answerText": "CH3COONH4",
+    "explanation": "(Repeated Question entry) Weak acid/weak base conjugate salts hydrolyze concurrently to preserveconcentration-neutral pH thresholds.",
+    "hasVisual": false
+  },
+  {
+    "number": 78,
+    "stem": "In Lassaigne's test for the detection of nitrogen in an organic compound, the appearance of a Prussian blue color is due to the formation of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Fe4[Fe(CN)6]3"
+      },
+      {
+        "key": "c",
+        "text": "Fe3[Fe(CN)6]2"
+      },
+      {
+        "key": "b",
+        "text": "Na4[Fe(CN)6]"
+      },
+      {
+        "key": "d",
+        "text": "Fe(CNS)3"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Fe4[Fe(CN)6]3",
+    "explanation": "The distinctive Prussian blue color indicating nitrogen presence in Lassaigne's filtrate test corresponds to ferric ferrocyanide.",
+    "hasVisual": false
+  },
+  {
+    "number": 79,
+    "stem": "What is the total number of structural acyclic isomers possible for an organic compound having the molecular formula C4H10O?",
+    "options": [
+      {
+        "key": "a",
+        "text": "7"
+      },
+      {
+        "key": "b",
+        "text": "4."
+      },
+      {
+        "key": "c",
+        "text": "5"
+      },
+      {
+        "key": "d",
+        "text": "6"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "7",
+    "explanation": "The acyclic saturated formula C4H10O possesses exactly 4 primary/secondary/tertiary structural alcohol isomers and 3 structural ether isomers, totaling 7.",
+    "hasVisual": false
+  },
+  {
+    "number": 80,
+    "stem": "Which of the following free radical species is the most stable due to maximum hyperconjugation and inductive effect?",
+    "options": [
+      {
+        "key": "a",
+        "text": "(CH3)3C•"
+      },
+      {
+        "key": "b",
+        "text": "(CH3)2CH•"
+      },
+      {
+        "key": "c",
+        "text": "CH3CH2•"
+      },
+      {
+        "key": "d",
+        "text": "CH3•"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "(CH3)3C•",
+    "explanation": "The tertiary butyl free radical is highly stabilized due to the presence of 9 alpha-hydrogen atoms providing maximum hyperconjugation.",
+    "hasVisual": false
+  },
+  {
+    "number": 81,
+    "stem": "Which of the following organic compounds will exhibit optical isomerism (is chiral) due to the presence of an asymmetric carbon atom?",
+    "options": [
+      {
+        "key": "a",
+        "text": "2-Chlorobutane."
+      },
+      {
+        "key": "c",
+        "text": "1-Chlorobutane"
+      },
+      {
+        "key": "b",
+        "text": "2-Chloropropane"
+      },
+      {
+        "key": "d",
+        "text": "2-Methylpropane"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "2-Chlorobutane.",
+    "explanation": "2-Chlorobutane contains an asymmetric chiral center bonded to four unique substituents: methyl, ethyl, hydrogen, and chlorine.",
+    "hasVisual": false
+  },
+  {
+    "number": 82,
+    "stem": "Ozonolysis of an alkene followed by reduction with Zn/H2O gives a mixture of methanal and ethanal. The alkene is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Propene."
+      },
+      {
+        "key": "b",
+        "text": "But-1-ene"
+      },
+      {
+        "key": "c",
+        "text": "But-2-ene"
+      },
+      {
+        "key": "d",
+        "text": "Pent-2-ene"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "b",
+    "answerText": "But-1-ene",
+    "explanation": "Reductive ozonolysis cleaves the alkenic double bond of But-1-ene (CH2=CH-CH2-CH3) to yield formaldehyde and propanal. 7",
+    "hasVisual": false
+  },
+  {
+    "number": 83,
+    "stem": "Which of the following structures is not aromatic according to Hückel's Rule?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Cycloheptatrienyl cation (Tropylium ion)."
+      },
+      {
+        "key": "c",
+        "text": "Cyclooctatetraene"
+      },
+      {
+        "key": "b",
+        "text": "Cyclopentadienyl anion"
+      },
+      {
+        "key": "d",
+        "text": "Naphthalene"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "c",
+    "answerText": "Cyclooctatetraene",
+    "explanation": "Cyclooctatetraene has 8 π-electrons, violating Hückel's rule, and assumes a non-planar tubshaped conformation that avoids aromaticity.",
+    "hasVisual": false
+  },
+  {
+    "number": 84,
+    "stem": "When chlorobenzene is treated with sodium metal in dry ether, diphenyl is formed. This synthetic. reaction is known as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Fittig reaction"
+      },
+      {
+        "key": "c",
+        "text": "Wurtz reaction"
+      },
+      {
+        "key": "b",
+        "text": "Wurtz-Fittig reaction"
+      },
+      {
+        "key": "d",
+        "text": "Frankland reaction"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Fittig reaction",
+    "explanation": "The biomolecular coupling of two aryl halide molecules using metallic sodium inside dry ether to form diphenyl is known as the Fittig reaction.",
+    "hasVisual": false
+  },
+  {
+    "number": 85,
+    "stem": "The low reactivity of aryl halides toward nucleophilic substitution reactions compared to alkyl halides is attributed to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Partial double bond character of C-X bond via resonance"
+      },
+      {
+        "key": "c",
+        "text": "Stability of aryl carbocations"
+      },
+      {
+        "key": "b",
+        "text": "sp3 hybridization of the carbon bonded to halogen"
+      },
+      {
+        "key": "d",
+        "text": "Inductive electron withdrawal by the aromatic loop"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Partial double bond character of C-X bond via resonance",
+    "explanation": "Halogen lone pair delocalization into the aromatic system introduces a partial double bond character that strengthens the carbon-halogen bond.",
+    "hasVisual": false
+  },
+  {
+    "number": 86,
+    "stem": "Phenol is treated with chloroform and aqueous sodium hydroxide followed by acidification to give salicylaldehyde. This reaction is known as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Reimer-Tiemann reaction."
+      },
+      {
+        "key": "c",
+        "text": "Kolbe's reaction"
+      },
+      {
+        "key": "b",
+        "text": "Gattermann reaction."
+      },
+      {
+        "key": "d",
+        "text": "Friedel-Crafts acylation"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Reimer-Tiemann reaction.",
+    "explanation": "Formylation of phenol using chloroform and aqueous sodium hydroxide yields orthosalicylaldehyde via the Reimer-Tiemann mechanism.",
+    "hasVisual": false
+  },
+  {
+    "number": 87,
+    "stem": "The reduction of a carbonyl group (>C=O) to a methylene group (-CH2-) using zinc amalgam (Zn-Hg) and concentrated hydrochloric acid (HCl) is called:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Clemmensen reduction"
+      },
+      {
+        "key": "c",
+        "text": "Rosenmund reduction"
+      },
+      {
+        "key": "b",
+        "text": "Wolff-Kishner reduction"
+      },
+      {
+        "key": "d",
+        "text": "Stephen's reduction"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Clemmensen reduction",
+    "explanation": "Deoxygenation of carbonyl compounds to methylene groups via amalgamated zinc (Zn-Hg) and concentrated HCl is the Clemmensen reduction.",
+    "hasVisual": false
+  },
+  {
+    "number": 88,
+    "stem": "Carboxylic acids react with halogen atoms in the presence of red phosphorus to introduce a halogen at the α-position. This reaction is known as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Hell-Volhard-Zelinsky (HVZ) reaction."
+      },
+      {
+        "key": "c",
+        "text": "Hunsdiecker reaction"
+      },
+      {
+        "key": "b",
+        "text": "Hoffmann bromamide degradation."
+      },
+      {
+        "key": "d",
+        "text": "Schotten-Baumann reaction"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Hell-Volhard-Zelinsky (HVZ) reaction.",
+    "explanation": "The selective halogenation of aliphatic carboxylic acids at their α-carbon in the presence of red phosphorus is the HVZ reaction.",
+    "hasVisual": false
+  },
+  {
+    "number": 89,
+    "stem": "The reaction of a primary amide with bromine and aqueous sodium hydroxide to yield a primary amine containing one less carbon atom is called:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Hoffmann bromamide degradation."
+      },
+      {
+        "key": "c",
+        "text": "Carbylamine reaction"
+      },
+      {
+        "key": "b",
+        "text": "Gabriel phthalimide synthesis."
+      },
+      {
+        "key": "d",
+        "text": "Curtius rearrangement"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Hoffmann bromamide degradation.",
+    "explanation": "Treating primary carboxamides with bromine and alkaline solutions prompts chain degradation, yielding an amine short by one carbon.",
+    "hasVisual": false
+  },
+  {
+    "number": 90,
+    "stem": "Which of the following disaccharides is a non-reducing sugar because its reducing groups are involved in glycosidic linkage?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sucrose."
+      },
+      {
+        "key": "b",
+        "text": "Lactose"
+      },
+      {
+        "key": "c",
+        "text": "Maltose"
+      },
+      {
+        "key": "d",
+        "text": "Cellobiose"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Sucrose.",
+    "explanation": "Sucrose links the anomeric reducing centers of both glucose and fructose units together, creating a non-reducing disaccharide sugar.",
+    "hasVisual": false
+  },
+  {
+    "number": 91,
+    "stem": "Nylon-6,6 is a synthetic polyamide copolymer. Its constituent monomers are:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Hexamethylenediamine and Adipic acid."
+      },
+      {
+        "key": "b",
+        "text": "Ethylene glycol and Phthalic acid."
+      },
+      {
+        "key": "c",
+        "text": "Caprolactam molecules exclusively"
+      },
+      {
+        "key": "d",
+        "text": "Styrene and 1,3-Butadiene tracking tracks"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Hexamethylenediamine and Adipic acid.",
+    "explanation": "Nylon-6,6 is synthesized via step-growth condensation polymerization combining a six-carbon diamine with a six-carbon dicarboxylic acid.",
+    "hasVisual": false
+  },
+  {
+    "number": 92,
+    "stem": "Which of the following compound drugs acts as a broad-spectrum antibiotic capable of destroying multiple bacterial strains?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Chloramphenicol."
+      },
+      {
+        "key": "c",
+        "text": "Penicillin G"
+      },
+      {
+        "key": "b",
+        "text": "Aspirin analgesics."
+      },
+      {
+        "key": "d",
+        "text": "Prontosil azo structures"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Chloramphenicol.",
+    "explanation": "Chloramphenicol is a traditional bacteriostatic broad-spectrum antibiotic active against a wide variety of microbial strains.",
+    "hasVisual": false
+  },
+  {
+    "number": 93,
+    "stem": "Hinsberg's reagent reacts with primary and secondary amines but leaves tertiary amines untouched. This reagent chemically corresponds to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Benzenesulfonyl chloride"
+      },
+      {
+        "key": "c",
+        "text": "Acetyl chloride"
+      },
+      {
+        "key": "b",
+        "text": "p-Toluenesulfonate salt."
+      },
+      {
+        "key": "d",
+        "text": "Thionyl chloride"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Benzenesulfonyl chloride",
+    "explanation": "Hinsberg's reagent chemically corresponds to benzenesulfonyl chloride and serves to categorize primary, secondary, and tertiary amines.",
+    "hasVisual": false
+  },
+  {
+    "number": 94,
+    "stem": "Which of the following compounds reacts fastest via an SN2 pathway with an aqueous nucleophile?",
+    "options": [
+      {
+        "key": "a",
+        "text": "CH3-I"
+      },
+      {
+        "key": "b",
+        "text": "CH3-Br."
+      },
+      {
+        "key": "c",
+        "text": "CH3-Cl"
+      },
+      {
+        "key": "d",
+        "text": "CH3-F"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "CH3-I",
+    "explanation": "Iodide is an excellent leaving group due to its low basicity and polarizability, which maximizes nucleophilic substitution rates.",
+    "hasVisual": false
+  },
+  {
+    "number": 95,
+    "stem": "Which type of specialized glassware features a high silicon dioxide and boron trioxide content, imparting low coefficients of thermal expansion and high resistance to thermal shock?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Borosilicate glass (Pyrex)"
+      },
+      {
+        "key": "c",
+        "text": "Soda-lime soft glass"
+      },
+      {
+        "key": "b",
+        "text": "Lead crystal glass."
+      },
+      {
+        "key": "d",
+        "text": "Safety laminated glass"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Borosilicate glass (Pyrex)",
+    "explanation": "Incorporating boron trioxide into silica structures yields a durable glass matrix characterized by low thermal expansion and shock resistance.",
+    "hasVisual": false
+  },
+  {
+    "number": 96,
+    "stem": "The primary industrial catalyst configuration and promoter sequence used in Haber's process for the synthesis of ammonia gas corresponds to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Finely divided iron (Fe) with molybdenum (Mo) as"
+      },
+      {
+        "key": "b",
+        "text": "Platinized asbestos beds with nitric oxide particles promoter"
+      },
+      {
+        "key": "c",
+        "text": "Vanadium pentoxide (V2O5) on silica lines"
+      },
+      {
+        "key": "d",
+        "text": "Raney nickel alloy working alongside copper dust"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Finely divided iron (Fe) with molybdenum (Mo) as",
+    "explanation": "The industrial synthesis of ammonia via the Haber process utilizes finely divided iron catalyst beds enhanced by molybdenum promoters.",
+    "hasVisual": false
+  },
+  {
+    "number": 97,
+    "stem": "Which of the following chemical substances acts as an ideal primary standard in acid-base volumetric titrations due to its high purity, air stability, and nonhygroscopic nature?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Anhydrous Sodium Carbonate (Na2CO3)"
+      },
+      {
+        "key": "c",
+        "text": "Sodium Hydroxide pellets (NaOH)"
+      },
+      {
+        "key": "b",
+        "text": "Concentrated Hydrochloric Acid (HCl)"
+      },
+      {
+        "key": "d",
+        "text": "Hydrated Calcium Chloride flakes"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Anhydrous Sodium Carbonate (Na2CO3)",
+    "explanation": "Anhydrous sodium carbonate is solid, non-hygroscopic, chemically stable, and meets all criteria for an ideal primary analytical base standard.",
+    "hasVisual": false
+  },
+  {
+    "number": 98,
+    "stem": "Which spectroscopic tool relies upon transitions between nuclear spin states in a strong magnetic field to determine the carbon-hydrogen skeletal connectivity of organic molecules?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Nuclear Magnetic Resonance (NMR) Spectroscopy"
+      },
+      {
+        "key": "b",
+        "text": "Infrared (IR) Vibrational Spectroscopy"
+      },
+      {
+        "key": "c",
+        "text": "Ultraviolet-Visible (UV-Vis) Spectroscopy"
+      },
+      {
+        "key": "d",
+        "text": "Mass Spectrometry fragmentation"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Nuclear Magnetic Resonance (NMR) Spectroscopy",
+    "explanation": "NMR spectroscopy relies on transitions between nuclear spin states in a strong magnetic field to map carbon-hydrogen skeletal connectivity.",
+    "hasVisual": false
+  },
+  {
+    "number": 99,
+    "stem": "The closeness of a sequence of replicate analytical measurements to each other, irrespective of whether they hit the true theoretical target value, is defined as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Precision."
+      },
+      {
+        "key": "c",
+        "text": "Determinate bias error"
+      },
+      {
+        "key": "b",
+        "text": "Accuracy."
+      },
+      {
+        "key": "d",
+        "text": "Absolute systemic drift"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Precision.",
+    "explanation": "Precision measures the degree of mutual agreement and reproducibility within a series of replicated analytical measurements.",
+    "hasVisual": false
+  },
+  {
+    "number": 100,
+    "stem": "Sodium nitroprusside solution reacts with a solution containing sulfide radicals (S2-) to yield a highly characteristic coloration. The color observed is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Purple / Violet."
+      },
+      {
+        "key": "c",
+        "text": "Blood Red"
+      },
+      {
+        "key": "b",
+        "text": "Canary Yellow"
+      },
+      {
+        "key": "d",
+        "text": "Prussian Blue"
+      }
+    ],
+    "subject": "Chemistry",
+    "answer": "a",
+    "answerText": "Purple / Violet.",
+    "explanation": "Sulfide radicals react with nitroprusside complexes to form a transient purple/violet coordination product.",
+    "hasVisual": false
+  },
+  {
+    "number": 101,
+    "stem": "Beak in birth had teeth in",
+    "options": [
+      {
+        "key": "a",
+        "text": "Ostrich."
+      },
+      {
+        "key": "b",
+        "text": "Kiwi."
+      },
+      {
+        "key": "c",
+        "text": "pelican"
+      },
+      {
+        "key": "d",
+        "text": "Archaeopteryx"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "d",
+    "answerText": "Archaeopteryx",
+    "explanation": "The fossil avifauna specimen Archaeopteryx marks a transitional evolutionary bridge, displaying true reptilian jaws lined with teeth.",
+    "hasVisual": false
+  },
+  {
+    "number": 102,
+    "stem": "Swabhav went to the British museum and found the skull having the cranial capacity of 900 cc . Identify the skull",
+    "options": [
+      {
+        "key": "a",
+        "text": "Homoerectus pekinensis"
+      },
+      {
+        "key": "c",
+        "text": "Homofutaralis"
+      },
+      {
+        "key": "b",
+        "text": "Homo habilis."
+      },
+      {
+        "key": "d",
+        "text": "Java man"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "d",
+    "answerText": "Java man",
+    "explanation": "Fossil hominid profiles of Java Man (*Homo erectus erectus*) document a characteristic mean cranial capacity near 900 cc.",
+    "hasVisual": false
+  },
+  {
+    "number": 103,
+    "stem": "Miller's experiment provided the evidence for theory of",
+    "options": [
+      {
+        "key": "a",
+        "text": "Special creation."
+      },
+      {
+        "key": "c",
+        "text": "Biogenesis"
+      },
+      {
+        "key": "b",
+        "text": "Abiogenesis."
+      },
+      {
+        "key": "d",
+        "text": "organic evolution"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Abiogenesis.",
+    "explanation": "Miller's landmark experiment verified organic precursor assembly under primordial conditions, validating chemical abiogenesis theories.",
+    "hasVisual": false
+  },
+  {
+    "number": 104,
+    "stem": "Mr. Dangi went to dentist for dental caries and Doctor found to have dental formula of dangi as 2123/2123 ? What is his estimated age !",
+    "options": [
+      {
+        "key": "a",
+        "text": "7 yrs ."
+      },
+      {
+        "key": "b",
+        "text": "25 yrs."
+      },
+      {
+        "key": "c",
+        "text": "19 month"
+      },
+      {
+        "key": "d",
+        "text": "15 yrs"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "25 yrs.",
+    "explanation": "A complete adult permanent dental formulation of 2123/2123 requires third molar eruption, signifying an age threshold of adult maturity.",
+    "hasVisual": false
+  },
+  {
+    "number": 123,
+    "stem": "Suppose a lab technician accidentally removes the chloragogen cells from an earthworm's coelomic cavity. The physiological crisis that follows is most functionally identical to losing which organ in a human?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The kidney"
+      },
+      {
+        "key": "b",
+        "text": "The lung"
+      },
+      {
+        "key": "c",
+        "text": "The liver"
+      },
+      {
+        "key": "d",
+        "text": "The pancreas"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "The liver",
+    "explanation": "Earthworm chloragogen cells store nutrients and process metabolic waste products, making them functionally homologous to the human liver.",
+    "hasVisual": false
+  },
+  {
+    "number": 124,
+    "stem": "While mapping out the vascular pathway of an earthworm, a student notices that the direction of blood flow in a specific major vessel is strictly from the posterior end forward to the anterior end. Identify this vessel:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Ventral vessel"
+      },
+      {
+        "key": "c",
+        "text": "Lateral-esophageal vessel"
+      },
+      {
+        "key": "b",
+        "text": "Dorsal vessel"
+      },
+      {
+        "key": "d",
+        "text": "Subneural vessel"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Dorsal vessel",
+    "explanation": "In the closed circulatory setup of an earthworm, blood flows from the posterior forward exclusively inside the muscular dorsal vessel.",
+    "hasVisual": false
+  },
+  {
+    "number": 125,
+    "stem": "The urogenital system of a male frog shows a close structural link between excretion and reproduction. Vasa efferentia enter the kidneys and open directly into:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Bidder's canal"
+      },
+      {
+        "key": "b",
+        "text": "Cloaca"
+      },
+      {
+        "key": "c",
+        "text": "Urinary bladder"
+      },
+      {
+        "key": "d",
+        "text": "Ureter"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "a",
+    "answerText": "Bidder's canal",
+    "explanation": "In male frogs, mature spermatozoa travel from the vasa efferentia through the kidney matrix to enter Bidder's canal.",
+    "hasVisual": false
+  },
+  {
+    "number": 126,
+    "stem": "While observing a living frog, you notice it frequently lowers and raises the floor of its closed mouth cavity. What biological process is it executing?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Regulating pressure in the middle ear"
+      },
+      {
+        "key": "b",
+        "text": "Moving air into and out of the lungs"
+      },
+      {
+        "key": "c",
+        "text": "Forcing food down the esophagus"
+      },
+      {
+        "key": "d",
+        "text": "Collecting chemical scents on its tongue"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Moving air into and out of the lungs",
+    "explanation": "Frogs manipulate the muscular floor of their buccopharyngeal cavity to create positive pressure shifts for lung ventilation. Page 2",
+    "hasVisual": false
+  },
+  {
+    "number": 127,
+    "stem": "A patient is infected with Plasmodium falciparum, the most dangerous malarial species. This parasite causes a specific pattern of fever known clinically as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Benign tertian malaria"
+      },
+      {
+        "key": "c",
+        "text": "Malignant tertian malaria"
+      },
+      {
+        "key": "b",
+        "text": "Quartan malaria"
+      },
+      {
+        "key": "d",
+        "text": "Mild quotidian malaria"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Malignant tertian malaria",
+    "explanation": "*Plasmodium falciparum* causes malignant tertian malaria, the most severe clinical form characterized by rapid erythrocyte destruction.",
+    "hasVisual": false
+  },
+  {
+    "number": 128,
+    "stem": "If a drug completely stops the development of Plasmodium gametocytes inside human blood vessels, what is the epidemiological impact of this intervention?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The infected person is cured immediately"
+      },
+      {
+        "key": "b",
+        "text": "The patient will no longer suffer from fever or chills"
+      },
+      {
+        "key": "c",
+        "text": "The patient cannot pass the infection to a mosquito"
+      },
+      {
+        "key": "d",
+        "text": "The liver stage (schizogony) will accelerate"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "The patient cannot pass the infection to a mosquito",
+    "explanation": "Gametocytes are the sexual stages required to infect vectors; blocking them prevents onward transmission to mosquitoes.",
+    "hasVisual": false
+  },
+  {
+    "number": 129,
+    "stem": "What type of connective tissue is primarily found forming the internal framework of lymphoid organs like the spleen and lymph nodes?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Dense regular connective tissue"
+      },
+      {
+        "key": "c",
+        "text": "Adipose tissue"
+      },
+      {
+        "key": "b",
+        "text": "Reticular connective tissue"
+      },
+      {
+        "key": "d",
+        "text": "Areolar tissue"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Reticular connective tissue",
+    "explanation": "Reticular connective tissue forms a delicate structural net framework (stroma) that supports cellular elements inside lymphoid organs.",
+    "hasVisual": false
+  },
+  {
+    "number": 130,
+    "stem": "Mast cells are specialized cells of connective tissue proper that are found actively secreting:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Hemoglobin, Myoglobin, and Melanin"
+      },
+      {
+        "key": "b",
+        "text": "Trypsin, Amylase, and Lipase"
+      },
+      {
+        "key": "c",
+        "text": "Histamine, Serotonin, and Heparin"
+      },
+      {
+        "key": "d",
+        "text": "Collagen, Elastin, and Reticulin"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Histamine, Serotonin, and Heparin",
+    "explanation": "Mast cells are specialized elements of connective tissue proper that synthesize and release histamine, serotonin, and heparin.",
+    "hasVisual": false
+  },
+  {
+    "number": 131,
+    "stem": "The urinary bladder must change its shape and stretch substantially when filled with urine without tearing. Which specialized epithelium enables this high level of distensibility?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Keratinized stratified squamous epithelium"
+      },
+      {
+        "key": "b",
+        "text": "Simple columnar epithelium"
+      },
+      {
+        "key": "c",
+        "text": "Transitional epithelium"
+      },
+      {
+        "key": "d",
+        "text": "Non-ciliated pseudostratified epithelium"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Transitional epithelium",
+    "explanation": "Transitional epithelium lines the urinary bladder and can accommodate extreme dimensional expansion and stretching without tearing.",
+    "hasVisual": false
+  },
+  {
+    "number": 132,
+    "stem": "While analyzing a tissue section under a microscope, a student notices concentric ring configurations called lamellae surrounding a central canal containing blood vessels. Identify the cell type residing within the lacunae of this tissue:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Chondrocytes"
+      },
+      {
+        "key": "c",
+        "text": "Osteocytes"
+      },
+      {
+        "key": "b",
+        "text": "Fibrocytes"
+      },
+      {
+        "key": "d",
+        "text": "Adipocytes"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Osteocytes",
+    "explanation": "Mature bone cells that are trapped and reside within small fluid-filled lacunae cavities are anatomically termed osteocytes.",
+    "hasVisual": false
+  },
+  {
+    "number": 133,
+    "stem": "Vaccines induce a safe simulation of a microbial attack. If a child receives an injection of a purified bacterial toxoid (inactivated exotoxin), what is the exact nature of the immunity generated?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Natural active immunity"
+      },
+      {
+        "key": "c",
+        "text": "Artificial active immunity"
+      },
+      {
+        "key": "b",
+        "text": "Natural passive immunity"
+      },
+      {
+        "key": "d",
+        "text": "Artificial passive immunity"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Artificial active immunity",
+    "explanation": "Injecting a bacterial toxoid introduces safe antigens that actively induce the host's immune system to synthesize specialized antibodies.",
+    "hasVisual": false
+  },
+  {
+    "number": 105,
+    "stem": "Sohan went to tuth hospital with the complain of step ladder pattern fever , rose spot in chest ?on diagnosis he was having fever .which part of gut is involved",
+    "options": [
+      {
+        "key": "a",
+        "text": "Duodenum."
+      },
+      {
+        "key": "b",
+        "text": "Illeum."
+      },
+      {
+        "key": "c",
+        "text": "stomach"
+      },
+      {
+        "key": "d",
+        "text": "illium"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Illeum.",
+    "explanation": "A step-ladder fever configuration alongside trunk rose spots are clinical pathognomonic markers of typhoid, which targets the small intestine's ileum.",
+    "hasVisual": false
+  },
+  {
+    "number": 106,
+    "stem": "What is the thickness of respiratory membrane",
+    "options": [
+      {
+        "key": "a",
+        "text": "20 mm."
+      },
+      {
+        "key": "b",
+        "text": "0.5 micron."
+      },
+      {
+        "key": "c",
+        "text": "0.05micrometer"
+      },
+      {
+        "key": "d",
+        "text": "5 micron"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "0.5 micron.",
+    "explanation": "The functional thin blood-air respiratory gas exchange membrane across human alveoli measures approximately 0.5 micrometers. 9",
+    "hasVisual": false
+  },
+  {
+    "number": 107,
+    "stem": "Which of the following structure's paralysis need an immediate mechanical ventilation",
+    "options": [
+      {
+        "key": "a",
+        "text": "Diaphragm."
+      },
+      {
+        "key": "c",
+        "text": "Internal intercostal"
+      },
+      {
+        "key": "b",
+        "text": "External intercostal."
+      },
+      {
+        "key": "d",
+        "text": "Rectus abdominis"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "a",
+    "answerText": "Diaphragm.",
+    "explanation": "The diaphragm is the primary muscle of inspiration driven by the phrenic nerve; its paralysis causes immediate respiratory collapse.",
+    "hasVisual": false
+  },
+  {
+    "number": 108,
+    "stem": "The first branch of human aorta is",
+    "options": [
+      {
+        "key": "a",
+        "text": "Brachiocephalic artery."
+      },
+      {
+        "key": "c",
+        "text": "Right subclavian"
+      },
+      {
+        "key": "b",
+        "text": "Coronary artery."
+      },
+      {
+        "key": "d",
+        "text": "left carotid"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Coronary artery.",
+    "explanation": "The earliest arterial vessels branches emergent from the root segment of the ascending human aorta are the coronary arteries.",
+    "hasVisual": false
+  },
+  {
+    "number": 109,
+    "stem": "Niruta went to manmohan heart center for the cardiac examination .on examination doctor heard the abnormal heart sound . Such sounds are called",
+    "options": [
+      {
+        "key": "a",
+        "text": "pleural rub."
+      },
+      {
+        "key": "b",
+        "text": "Dub."
+      },
+      {
+        "key": "c",
+        "text": "lub"
+      },
+      {
+        "key": "d",
+        "text": "Heart murmur"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "d",
+    "answerText": "Heart murmur",
+    "explanation": "Abnormal internal heart acoustic sounds generated during auscultation by valve structural pathologies are termed murmurs.",
+    "hasVisual": false
+  },
+  {
+    "number": 110,
+    "stem": "Tree of Life is called",
+    "options": [
+      {
+        "key": "a",
+        "text": "Arbor vitae."
+      },
+      {
+        "key": "b",
+        "text": "Organ of corti."
+      },
+      {
+        "key": "c",
+        "text": "pons varoli"
+      },
+      {
+        "key": "d",
+        "text": "Diencephalon"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "a",
+    "answerText": "Arbor vitae.",
+    "explanation": "The \"Arbor Vitae\" configuration identifies the highly branched sagittal tree-like appearance of white matter tracts inside the cerebellum.",
+    "hasVisual": false
+  },
+  {
+    "number": 111,
+    "stem": "Depolarization is due to",
+    "options": [
+      {
+        "key": "a",
+        "text": "efflux of Na+ ion"
+      },
+      {
+        "key": "c",
+        "text": "Influx of Na+ ion"
+      },
+      {
+        "key": "b",
+        "text": "Efflux of K+ion."
+      },
+      {
+        "key": "d",
+        "text": "Influx of K+ ion"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Influx of Na+ ion",
+    "explanation": "The rapid upstroke depolarization phase along action potential paths is driven by the opening of voltage-gated sodium influx channels.",
+    "hasVisual": false
+  },
+  {
+    "number": 112,
+    "stem": "The blood leaving the liver and joining towards the heart is rich in",
+    "options": [
+      {
+        "key": "a",
+        "text": "Bile."
+      },
+      {
+        "key": "b",
+        "text": "Urea."
+      },
+      {
+        "key": "c",
+        "text": "Glucose"
+      },
+      {
+        "key": "d",
+        "text": "RBC"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Urea.",
+    "explanation": "Blood leaving hepatic tissue boundaries contains elevated concentrations of urea synthesized by the internal ornithine liver cycle.",
+    "hasVisual": false
+  },
+  {
+    "number": 113,
+    "stem": "Longest loop of Henle is found in",
+    "options": [
+      {
+        "key": "a",
+        "text": "Kangaroo rat."
+      },
+      {
+        "key": "c",
+        "text": "opposum"
+      },
+      {
+        "key": "b",
+        "text": "Rhesus monkey."
+      },
+      {
+        "key": "d",
+        "text": "all of the above"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "a",
+    "answerText": "Kangaroo rat.",
+    "explanation": "Extreme desert-dwelling kangaroo rats rely on hyper-elongated loops of Henle to maximize hyperconcentrated urinary conservation. 10",
+    "hasVisual": false
+  },
+  {
+    "number": 114,
+    "stem": "The gestation period for human being is",
+    "options": [
+      {
+        "key": "a",
+        "text": "300 days."
+      },
+      {
+        "key": "b",
+        "text": "280 days."
+      },
+      {
+        "key": "c",
+        "text": "265 days"
+      },
+      {
+        "key": "d",
+        "text": "240 days"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "280 days.",
+    "explanation": "The human gestation period is clinically calculated as 280 days (or 40 weeks) from the first day of the last menstrual period.",
+    "hasVisual": false
+  },
+  {
+    "number": 115,
+    "stem": "Name the ion responsible for unmasking active sites on actin during muscle contraction",
+    "options": [
+      {
+        "key": "a",
+        "text": "Calcium"
+      },
+      {
+        "key": "b",
+        "text": "Magnesium"
+      },
+      {
+        "key": "c",
+        "text": "Sodium"
+      },
+      {
+        "key": "d",
+        "text": "Potassium"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "a",
+    "answerText": "Calcium",
+    "explanation": "Calcium ions bind to troponin to trigger a structural shift that unmasks active binding sites on actin filaments during contraction.",
+    "hasVisual": false
+  },
+  {
+    "number": 116,
+    "stem": "Dipin, a medical student, notices that he is passing large amounts of very dilute urine throughout the day. He feels thirsty all the time and keeps drinking water, but his symptoms persist. On investigation, doctors find that his body is producing insufficient ADH (vasopressin). This deficiency is most likely to result in:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Diabetes mellitus disorder."
+      },
+      {
+        "key": "c",
+        "text": "Diabetes insipidus disorder"
+      },
+      {
+        "key": "b",
+        "text": "Goiter condition."
+      },
+      {
+        "key": "d",
+        "text": "Acromegaly presentation"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Diabetes insipidus disorder",
+    "explanation": "Deficiency of Antidiuretic Hormone (ADH) limits renal water reabsorption, prompting excessive excretion of highly dilute urine.",
+    "hasVisual": false
+  },
+  {
+    "number": 117,
+    "stem": "Sertoli cells found in human testes provide nutritive support to:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Leydig cells"
+      },
+      {
+        "key": "c",
+        "text": "Developing spermatozoa"
+      },
+      {
+        "key": "b",
+        "text": "Spermatogonia cells"
+      },
+      {
+        "key": "d",
+        "text": "Interstitial tissue"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Developing spermatozoa",
+    "explanation": "Sertoli cells within the seminiferous tubules provide essential structural, regulatory, and nutritive support to developing sperm.",
+    "hasVisual": false
+  },
+  {
+    "number": 118,
+    "stem": "Photosensitive compound in human eye is made up of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Guanosine and Retinol."
+      },
+      {
+        "key": "c",
+        "text": "Opsin and Retinal"
+      },
+      {
+        "key": "b",
+        "text": "Opsin and Retinol."
+      },
+      {
+        "key": "d",
+        "text": "Transducin and Retinene"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Opsin and Retinal",
+    "explanation": "Rhodopsin is a conjugated photosynthetic visual pigment consisting of the protein opsin and the aldehyde form of vitamin A, retinal.",
+    "hasVisual": false
+  },
+  {
+    "number": 119,
+    "stem": "Which of the following options represents a pseudocoelomate animal condition?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Annelida"
+      },
+      {
+        "key": "b",
+        "text": "Arthropoda"
+      },
+      {
+        "key": "c",
+        "text": "Aschelminthes"
+      },
+      {
+        "key": "d",
+        "text": "Chordata"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Aschelminthes",
+    "explanation": "Aschelminthes (roundworms) possess a false body cavity or pseudocoelom that is derived directly from the embryonic blastocoel.",
+    "hasVisual": false
+  },
+  {
+    "number": 120,
+    "stem": "In case of poriferans, the spongocoel is lined with flagellated cells called:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oscula"
+      },
+      {
+        "key": "b",
+        "text": "Porocytes"
+      },
+      {
+        "key": "c",
+        "text": "Choanocytes"
+      },
+      {
+        "key": "d",
+        "text": "Ostia"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Choanocytes",
+    "explanation": "The central spongocoel cavity of poriferans is lined with flagellated collar cells called choanocytes that ingest food particles.",
+    "hasVisual": false
+  },
+  {
+    "number": 121,
+    "stem": "Lamprey (Petromyzon) and Hagfish (Myxine) differ from true fishes because they",
+    "options": [
+      {
+        "key": "a",
+        "text": "Lack fins."
+      },
+      {
+        "key": "c",
+        "text": "Lack scales and jaws"
+      },
+      {
+        "key": "b",
+        "text": "Possess a cartilaginous skeleton."
+      },
+      {
+        "key": "d",
+        "text": "Are exclusively freshwater form"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Lack scales and jaws",
+    "explanation": "Cyclostomes like lampreys and hagfishes are primitive jawless vertebrates characterized by an absolute absence of scales.",
+    "hasVisual": false
+  },
+  {
+    "number": 122,
+    "stem": "In which of the following groups does the notochord persist throughout life and extend completely from the head to the tail region?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Urochordata."
+      },
+      {
+        "key": "c",
+        "text": "Cephalochordata"
+      },
+      {
+        "key": "b",
+        "text": "Hemichordata."
+      },
+      {
+        "key": "d",
+        "text": "Vertebrata"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Cephalochordata",
+    "explanation": "In Cephalochordates (e.g., *Amphioxus*), the continuous structural notochord persists throughout life from the head to the tail.",
+    "hasVisual": false
+  },
+  {
+    "number": 134,
+    "stem": "Human Immunodeficiency Virus (HIV) selectively targets and destroys which specific cellular component of the human immune system, leading to AIDS?",
+    "options": [
+      {
+        "key": "a",
+        "text": "B-lymphocytes"
+      },
+      {
+        "key": "c",
+        "text": "Helper T-cells (TH)"
+      },
+      {
+        "key": "b",
+        "text": "Cytotoxic T-cells (T-"
+      },
+      {
+        "key": "c",
+        "text": ""
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Helper T-cells (TH)",
+    "explanation": "Human Immunodeficiency Virus (HIV) selectively targets and destroys CD4+ Helper Tlymphocytes, collapsing the host immune system.",
+    "hasVisual": false
+  },
+  {
+    "number": 135,
+    "stem": "The diagnostic confirmation of Typhoid fever in a clinical laboratory is reliably achieved through which of the following tests?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Schick test"
+      },
+      {
+        "key": "c",
+        "text": "Widal test"
+      },
+      {
+        "key": "b",
+        "text": "Dick test"
+      },
+      {
+        "key": "d",
+        "text": "Mantoux test"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Widal test",
+    "explanation": "The Widal test is a classical serological agglutination assay utilized in clinical labs to confirm enteric/ typhoid fever infections.",
+    "hasVisual": false
+  },
+  {
+    "number": 136,
+    "stem": "Which of the following anti tubercular drug causes ottotoxicity ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Streptomycin."
+      },
+      {
+        "key": "c",
+        "text": "Ethambutol"
+      },
+      {
+        "key": "b",
+        "text": "Rifampicin"
+      },
+      {
+        "key": "d",
+        "text": "Isoniazide"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "a",
+    "answerText": "Streptomycin.",
+    "explanation": "Streptomycin is an anti-tubercular aminoglycoside antibiotic whose principal adverse toxicity targets the eighth cranial auditory nerve.",
+    "hasVisual": false
+  },
+  {
+    "number": 137,
+    "stem": "The \"Golden Rice\" variant was successfully engineered by medical botanists to serve as a bio-fortified crop that directly addresses clinical deficiencies of which essential nutrient?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Vitamin C"
+      },
+      {
+        "key": "c",
+        "text": "Vitamin A (Beta-carotene)"
+      },
+      {
+        "key": "b",
+        "text": "Iron"
+      },
+      {
+        "key": "d",
+        "text": "Vitamin B12"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Vitamin A (Beta-carotene)",
+    "explanation": "Golden Rice is a bio-fortified agricultural crop engineered to accumulate beta-carotene, a primary metabolic precursor to Vitamin A.",
+    "hasVisual": false
+  },
+  {
+    "number": 138,
+    "stem": "While analyzing an X-ray radiograph of a fractured femur, Birendra notes that dense bone structures appear white, while surrounding muscle tissues look dark grey. What physical process explains this difference?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Muscles absorb X-rays via dense magnetic fields"
+      },
+      {
+        "key": "b",
+        "text": "Calcium in bone has a high atomic number and attenuates X-rays"
+      },
+      {
+        "key": "c",
+        "text": "Bone tissue selectively reflects X-rays like a mirror"
+      },
+      {
+        "key": "d",
+        "text": "Soft tissues accelerate the wavelength of incoming X-ray photons"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "b",
+    "answerText": "Calcium in bone has a high atomic number and attenuates X-rays",
+    "explanation": "Dense skeletal bone absorbs more X-ray photons due to its highly concentrated calcium content (Z=20), making it appear white.",
+    "hasVisual": false
+  },
+  {
+    "number": 139,
+    "stem": "The pyramid of biomass in a deep aquatic ecosystem (such as a large lake or ocean) is typically:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Always upright"
+      },
+      {
+        "key": "c",
+        "text": "Inverted"
+      },
+      {
+        "key": "b",
+        "text": "Bell-shaped"
+      },
+      {
+        "key": "d",
+        "text": "Spindle-shaped"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Inverted",
+    "explanation": "The rapid turnover and lower transient standing biomass of phytoplankton relative to fish consumers yields an inverted aquatic biomass pyramid.",
+    "hasVisual": false
+  },
+  {
+    "number": 140,
+    "stem": "According to the Red Data Book maintained by the IUCN, a species facing an extremely high risk of extinction in the wild in the immediate future is categorized as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Vulnerable"
+      },
+      {
+        "key": "c",
+        "text": "Endangered"
+      },
+      {
+        "key": "b",
+        "text": "Critically Endangered"
+      },
+      {
+        "key": "d",
+        "text": "Extinct in the Wild"
+      }
+    ],
+    "subject": "Zoology",
+    "answer": "c",
+    "answerText": "Endangered",
+    "explanation": "According to Red Data Book guidelines, a wild species facing an exceptionally high danger ofimminent extinction is classified as Endangered.",
+    "hasVisual": false
+  },
+  {
+    "number": 141,
+    "stem": "Which of the following statements is strictly TRUE regarding the structure of a plant cell wall?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The primary wall is static and never diminishes"
+      },
+      {
+        "key": "b",
+        "text": "The middle lamella is chiefly made of calcium pectate"
+      },
+      {
+        "key": "c",
+        "text": "Secondary wall is formed on the outer side of primary wall"
+      },
+      {
+        "key": "d",
+        "text": "Cellulose is entirely absent in the primary cell wall"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "b",
+    "answerText": "The middle lamella is chiefly made of calcium pectate",
+    "explanation": "The middle lamella functions as an intercellular adhesive matrix composed mainly of calcium and magnesium pectate.",
+    "hasVisual": false
+  },
+  {
+    "number": 142,
+    "stem": "Which of the following cell organelles is responsible for synthesizing and storing non-pigmented nutrients like starch in potato tubers?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Elaioplasts"
+      },
+      {
+        "key": "c",
+        "text": "Amyloplasts"
+      },
+      {
+        "key": "b",
+        "text": "Aleuroplasts"
+      },
+      {
+        "key": "d",
+        "text": "Chromoplasts"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Amyloplasts",
+    "explanation": "Amyloplasts are specialized non-pigmented leucoplasts that function exclusively to synthesize and store insoluble starch grains.",
+    "hasVisual": false
+  },
+  {
+    "number": 143,
+    "stem": "Consider a plant species where fruit weight is controlled by three polygenic gene pairs (A, B,",
+    "options": [
+      {
+        "key": "c",
+        "text": ". Homozygous aabbcc yields a 10g fruit, while AABBCC yields a 40g fruit. What is the weight contribution of each dominant allele?"
+      },
+      {
+        "key": "a",
+        "text": "10g"
+      },
+      {
+        "key": "c",
+        "text": "5g"
+      },
+      {
+        "key": "b",
+        "text": "30g"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": ". Homozygous aabbcc yields a 10g fruit, while AABBCC yields a 40g fruit. What is the weight contribution of each dominant allele?",
+    "explanation": "The additive phenotypic range spans 30g across 6 dominant alleles, giving an incremental contribution of 5g per dominant allele.",
+    "hasVisual": false
+  },
+  {
+    "number": 144,
+    "stem": "If a template strand of plant DNA displays the linear sequence 5'ATCGGTA-3', what will be the exact sequence of the complementary mRNA strand synthesized during transcription?",
+    "options": [
+      {
+        "key": "a",
+        "text": "5'-UAGCCUA-3'"
+      },
+      {
+        "key": "c",
+        "text": "5'-UACCOAU-3'"
+      },
+      {
+        "key": "b",
+        "text": "3'-UAGCCAU-5'"
+      },
+      {
+        "key": "d",
+        "text": "5'-TACCGAT-3'"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "a",
+    "answerText": "5'-UAGCCUA-3'",
+    "explanation": "Anti-parallel RNA transcription base pairing rules convert a template sequence of 3'ATCGGTA-5'into 5'-UAGCCUA-3'.",
+    "hasVisual": false
+  },
+  {
+    "number": 145,
+    "stem": "Which of the following nitrogenous bases is strictly unique to the structure of RNA molecules, serving as a replacement for Thymine?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Adenine"
+      },
+      {
+        "key": "c",
+        "text": "Uracil"
+      },
+      {
+        "key": "b",
+        "text": "Cytosine"
+      },
+      {
+        "key": "d",
+        "text": "Guanine"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Uracil",
+    "explanation": "Uracil is a pyrimidine base structural component unique to RNA molecules, replacing Thymine to pair with Adenine.",
+    "hasVisual": false
+  },
+  {
+    "number": 146,
+    "stem": "The experimental phenomenon where an F1 individual shows a phenotype that perfectly blends or sits intermediate between both homozygous parents is known as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Codominance"
+      },
+      {
+        "key": "c",
+        "text": "Incomplete dominance"
+      },
+      {
+        "key": "b",
+        "text": "Epistasis"
+      },
+      {
+        "key": "d",
+        "text": "Pleiotropy"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Incomplete dominance",
+    "explanation": "Incomplete dominance results in a heterozygous hybrid phenotype that presents as an intermediate blend of both homozygous parents.",
+    "hasVisual": false
+  },
+  {
+    "number": 147,
+    "stem": "The chromosomal mechanism of inheritance was experimentally verified and structurally linked using Drosophila and sweet pea models by:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Gregor Johann Mendel"
+      },
+      {
+        "key": "c",
+        "text": "Thomas Hunt Morgan"
+      },
+      {
+        "key": "b",
+        "text": "Watson and Crick"
+      },
+      {
+        "key": "d",
+        "text": "Hugo de Vries"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Thomas Hunt Morgan",
+    "explanation": "Thomas Hunt Morgan utilized *Drosophila melanogaster* mutants to experimentally establish genetic linkage and verify chromosomal inheritance.",
+    "hasVisual": false
+  },
+  {
+    "number": 148,
+    "stem": "Which specific non-sense or stop codon halts the translation mechanism of polypeptides across almost all plant cellular ribosomes?",
+    "options": [
+      {
+        "key": "a",
+        "text": "AUG"
+      },
+      {
+        "key": "c",
+        "text": "UAA"
+      },
+      {
+        "key": "b",
+        "text": "GUG"
+      },
+      {
+        "key": "d",
+        "text": "UGG"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "UAA",
+    "explanation": "UAA is a non-sense termination triplet that triggers translation release factors to halt protein synthesis across ribosomes.",
+    "hasVisual": false
+  },
+  {
+    "number": 149,
+    "stem": "Stomata which are structurally distributed equally on both the upper adaxial and lower abaxial epidermis of a leaf are typically seen in:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Dorsiventral dicotyledonous leaves"
+      },
+      {
+        "key": "b",
+        "text": "Submerged hydrophytic leaves"
+      },
+      {
+        "key": "c",
+        "text": "Isobilateral monocotyledonous leaves"
+      },
+      {
+        "key": "d",
+        "text": "Xerophytic pine needles"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Isobilateral monocotyledonous leaves",
+    "explanation": "Isobilateral leaves, which are characteristically found in monocots, display a symmetrical distribution of stomata across both epidermis layers.",
+    "hasVisual": false
+  },
+  {
+    "number": 150,
+    "stem": "The cork cambium (phellogen) undergoes periclinal divisions to produce phellem on its outer side and phelloderm on its inner side. Phellem cells are waterproof due to the deposition of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Lignin"
+      },
+      {
+        "key": "c",
+        "text": "Suberin"
+      },
+      {
+        "key": "b",
+        "text": "Cutin"
+      },
+      {
+        "key": "d",
+        "text": "Hemicellulose"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Suberin",
+    "explanation": "Outer cork cells synthesized by the phellogen undergo secondary cell wall impregnation with suberin, making them waterproof.",
+    "hasVisual": false
+  },
+  {
+    "number": 151,
+    "stem": "In a primary dicot root, the protoxylem elements are located closer to the periphery (pericycle), while the metaxylem elements face the center. This pattern of development is termed:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Endarch"
+      },
+      {
+        "key": "c",
+        "text": "Exarch"
+      },
+      {
+        "key": "b",
+        "text": "Mesarch"
+      },
+      {
+        "key": "d",
+        "text": "Centrifugal"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Exarch",
+    "explanation": "Root vascular bundles display an exarch arrangement, where younger metaxylem maturescentripetally away from peripheral protoxylem.",
+    "hasVisual": false
+  },
+  {
+    "number": 152,
+    "stem": "The terminal electron acceptor of the mitochondrial electron transport chain (ETC) operating during aerobic respiration is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Cytochrome c"
+      },
+      {
+        "key": "c",
+        "text": "Molecular Oxygen (O2)"
+      },
+      {
+        "key": "d",
+        "text": "Ubiquinone"
+      },
+      {
+        "key": "b",
+        "text": "NAD+"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Molecular Oxygen (O2)",
+    "explanation": "Molecular oxygen acts as the final terminal electron acceptor at the end of the mitochondrial ETC, reducing to water.",
+    "hasVisual": false
+  },
+  {
+    "number": 153,
+    "stem": "The \"Richmond-Lang effect,\" which denotes the striking delay of leaf senescence via nutrient mobilization, is a classic feature of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Auxins"
+      },
+      {
+        "key": "c",
+        "text": "Cytokinins"
+      },
+      {
+        "key": "b",
+        "text": "Gibberellins"
+      },
+      {
+        "key": "d",
+        "text": "Abscisic acid"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Cytokinins",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 154,
+    "stem": "A mutant strain of barley seeds fails to produce alpha-amylase when treated with standard concentrations of Gibberellins. Which specific cellular layer of the seed is likely defective or missing?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Endosperm matrix"
+      },
+      {
+        "key": "c",
+        "text": "Aleurone layer"
+      },
+      {
+        "key": "b",
+        "text": "Coleoptile tip"
+      },
+      {
+        "key": "d",
+        "text": "Scutellum"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Aleurone layer",
+    "explanation": "The aleurone layer of germinating seeds synthesizes hydrolytic alpha-amylase in response to embryonic gibberellin signals.",
+    "hasVisual": false
+  },
+  {
+    "number": 155,
+    "stem": "The conversion of one molecule of fructose 1,6-bisphosphate into two molecules of pyruvate during glycolysis yields a NET of how many ATP?",
+    "options": [
+      {
+        "key": "a",
+        "text": "2 ATP"
+      },
+      {
+        "key": "c",
+        "text": "4 ATP"
+      },
+      {
+        "key": "b",
+        "text": "36 ATP"
+      },
+      {
+        "key": "d",
+        "text": "38 ATP"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "a",
+    "answerText": "2 ATP",
+    "explanation": "Splitting one molecule of pre-phosphorylated fructose 1,6-bisphosphate via glycolysis yields a net gain of 2 ATP.",
+    "hasVisual": false
+  },
+  {
+    "number": 156,
+    "stem": "Which tool is standardly employed to measure the rate of transpiration in a lab setting by monitoring the movement of an air bubble?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Auxanometer"
+      },
+      {
+        "key": "c",
+        "text": "Ganong's Potometer"
+      },
+      {
+        "key": "b",
+        "text": "Respirometer"
+      },
+      {
+        "key": "d",
+        "text": "Porometer"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Ganong's Potometer",
+    "explanation": "Ganong's potometer tracks the movement of an isolated air bubble to quantify water absorption ratesduring plant transpiration.",
+    "hasVisual": false
+  },
+  {
+    "number": 157,
+    "stem": "If a plant geneticist isolates a mutant rice strain that exhibits \"foolish seedling\" disease (extreme over-elongation) even in the complete absence of the fungal pathogen Gibberella fujikuroi, the mutation most likely:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Inactivates the plant's native auxin receptors"
+      },
+      {
+        "key": "b",
+        "text": "Causes constitutive (permanent) activation of the gibberellin signaling pathway"
+      },
+      {
+        "key": "c",
+        "text": "Blocks the synthesis of abscisic acid"
+      },
+      {
+        "key": "d",
+        "text": "Deletes the gene for alpha-amylase production"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "b",
+    "answerText": "Causes constitutive (permanent) activation of the gibberellin signaling pathway",
+    "explanation": "Foolish seedling disease symptoms are triggered by a hyperactive mutation that constitutively locks gibberellin signaling pathways open.",
+    "hasVisual": false
+  },
+  {
+    "number": 158,
+    "stem": "Which of the following cellular organelle pairs is entirely bound by a single membrane envelope system?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Mitochondria and Lysosomes"
+      },
+      {
+        "key": "c",
+        "text": "Lysosomes and Peroxisomes"
+      },
+      {
+        "key": "b",
+        "text": "Chloroplasts and Peroxisomes"
+      },
+      {
+        "key": "d",
+        "text": "Nuclei and Ribosomes"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Lysosomes and Peroxisomes",
+    "explanation": "Unlike double-membraned nuclei, mitochondria, and plastids, lysosomes and peroxisomes are bounded by a single lipid bilayer.",
+    "hasVisual": false
+  },
+  {
+    "number": 159,
+    "stem": "During the cell cycle, a critical checkpoint occurs at the end of G1 phase. If a cell fails to clear this point due to DNA damage, it enters:",
+    "options": [
+      {
+        "key": "a",
+        "text": "S phase directly"
+      },
+      {
+        "key": "c",
+        "text": "Quiescent stage (G0 phase) - Rank Factory Biratnagar This relationship plots as a straight line on a log-log scale described by which mathematical formula?"
+      },
+      {
+        "key": "a",
+        "text": "Log S = Log C + Z Log A"
+      },
+      {
+        "key": "c",
+        "text": "Log A = Log C + Z Log S"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Quiescent stage (G0 phase) - Rank Factory Biratnagar This relationship plots as a straight line on a log-log scale described by which mathematical formula?",
+    "explanation": "Cells failing to pass the G1 DNA-damage control checkpoint exit active replication to enter adormant, non-dividing G0 phase.",
+    "hasVisual": false
+  },
+  {
+    "number": 173,
+    "stem": "The association between sea anemones and hermit crabs, where the crab gains protection and the anemone achieves mobility without structural metabolic dependence, is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Amensalism"
+      },
+      {
+        "key": "c",
+        "text": "Proto-cooperation (Facultative Mutualism)"
+      },
+      {
+        "key": "b",
+        "text": "Parasitism"
+      },
+      {
+        "key": "d",
+        "text": "Commensalism"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Proto-cooperation (Facultative Mutualism)",
+    "explanation": "The hermit crab-sea anemone association is proto-cooperation; both organisms derive clear mutual benefits but can survive independently.",
+    "hasVisual": false
+  },
+  {
+    "number": 174,
+    "stem": "In a pioneer ecological succession on bare rock (Lithosere), which organisms act as the crucial initial colonizers preparing the substrate for higher plants?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Mosses"
+      },
+      {
+        "key": "c",
+        "text": "Lichens"
+      },
+      {
+        "key": "b",
+        "text": "Pteridophytes"
+      },
+      {
+        "key": "d",
+        "text": "Green algae"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Lichens",
+    "explanation": "Lichens are the primary pioneer colonizers on bare rock substrates, initiating ecological succession by weathering solid minerals.",
+    "hasVisual": false
+  },
+  {
+    "number": 175,
+    "stem": "According to Lindeman's foundational Efficiency Law of trophic dynamics, if primary producers trap 10,000J of net energy from sunlight, how much energy enters the secondary consumers?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1,000J"
+      },
+      {
+        "key": "c",
+        "text": "100J"
+      },
+      {
+        "key": "b",
+        "text": "10J"
+      },
+      {
+        "key": "d",
+        "text": "1J"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "100J",
+    "explanation": "Applying Lindeman's 10% thermodynamic efficiency rule: 10,000J at producers drops to 1,000J at primary consumers, and 100J at secondary consumers.",
+    "hasVisual": false
+  },
+  {
+    "number": 176,
+    "stem": "In micropropagation via plant tissue culture, growing uniform virus-free clonal plants from a completely virus-infected parent plant can be successfully accomplished by using which explant?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Leaf disc segments"
+      },
+      {
+        "key": "c",
+        "text": "Apical and axillary meristems"
+      },
+      {
+        "key": "b",
+        "text": "Vascular cambium tissue"
+      },
+      {
+        "key": "d",
+        "text": "Mature cotyledons"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Apical and axillary meristems",
+    "explanation": "Actively dividing shoot apical and axillary meristems lack vascular connection lines, rendering them free of viruses and ideal for clonal micropropagation.",
+    "hasVisual": false
+  },
+  {
+    "number": 177,
+    "stem": "Atropine, a drug used to treat bradycardia (slow heart rate) and certain poisoning cases, is extracted from Atropa belladonna. This plant belongs to which family?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Fabaceae"
+      },
+      {
+        "key": "c",
+        "text": "Solanaceae"
+      },
+      {
+        "key": "b",
+        "text": "Brassicaceae"
+      },
+      {
+        "key": "d",
+        "text": "Liliaceae"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Solanaceae",
+    "explanation": "Atropine is a secondary anticholinergic alkaloid commercially isolated from *Atropa belladonna*, a member of the Solanaceae family.",
+    "hasVisual": false
+  },
+  {
+    "number": 178,
+    "stem": "To bypass the natural species barrier in cross-hybridization, cell walls of two different plant species are digested using pectinase and cellulase. The resulting naked protoplasts are then fused using:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sodium carbonate"
+      },
+      {
+        "key": "c",
+        "text": "Polyethylene glycol (PEG) or Electrofusion"
+      },
+      {
+        "key": "b",
+        "text": "Ethidium bromide"
+      },
+      {
+        "key": "d",
+        "text": "Colchicine chemical bath"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Polyethylene glycol (PEG) or Electrofusion",
+    "explanation": "Stripped somatic protoplasts are chemically coerced to fuse using polyethylene glycol (PEG) or high-voltage electrofusion fields to bypass species barriers.",
+    "hasVisual": false
+  },
+  {
+    "number": 179,
+    "stem": "Restriction enzymes are called:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Molecular scissors."
+      },
+      {
+        "key": "c",
+        "text": "Molecular glue"
+      },
+      {
+        "key": "b",
+        "text": "Molecular carriers."
+      },
+      {
+        "key": "d",
+        "text": "Molecular markers"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "a",
+    "answerText": "Molecular scissors.",
+    "explanation": "Restriction endonucleases are called molecular scissors due to their ability to cleave internal DNAphosphodiester bonds at specific sites.",
+    "hasVisual": false
+  },
+  {
+    "number": 180,
+    "stem": "Ti plasmid is obtained from:",
+    "options": [
+      {
+        "key": "a",
+        "text": "E. coli."
+      },
+      {
+        "key": "c",
+        "text": "Bacillus thuringiensis"
+      },
+      {
+        "key": "b",
+        "text": "Agrobacterium tumefaciens."
+      },
+      {
+        "key": "d",
+        "text": "Rhizobium"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "b",
+    "answerText": "Agrobacterium tumefaciens.",
+    "explanation": "The tumor-inducing Ti plasmid, extensively utilized as a transgenic plant cloning vector, is native to *Agrobacterium tumefaciens* MAT",
+    "hasVisual": false
+  },
+  {
+    "number": 181,
+    "stem": "If in a certain code language, the word 'SUBBA' is written as 'VXDED', how will the word 'KHARIDAR' be coded in that same system?",
+    "options": [
+      {
+        "key": "a",
+        "text": "NKDULGDU"
+      },
+      {
+        "key": "c",
+        "text": "NDKULGDU"
+      },
+      {
+        "key": "b",
+        "text": "NKDULGUD."
+      },
+      {
+        "key": "d",
+        "text": "MHKVLGDU"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "b",
+    "answerText": "NKDULGUD.",
+    "explanation": "",
+    "hasVisual": false
+  },
+  {
+    "number": 182,
+    "stem": "Arrange the following words in a meaningful logical sequence from microscopic to macroscopic scale:",
+    "options": [],
+    "subject": "MAT",
+    "answer": "c",
+    "answerText": "2, 1, 5, 4, 3",
+    "explanation": "Sorting by increasing geographic scale yields: Ward (2), District (1), Municipality (5), Province (4),and Country (3).",
+    "hasVisual": false
+  },
+  {
+    "number": 183,
+    "stem": "If 'Pen' is called 'Paper', 'Paper' is called 'Ink', 'Ink' is called 'Desk', and 'Desk' is called 'Office', where does a student fill a fountain pen from?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Desk."
+      },
+      {
+        "key": "c",
+        "text": "Paper"
+      },
+      {
+        "key": "b",
+        "text": "Ink"
+      },
+      {
+        "key": "d",
+        "text": "Office"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "Desk.",
+    "explanation": "A pen is filled with ink, and since the substitution cipher dictates that 'Ink' is called 'Desk', the student fills it from the 'Desk'.",
+    "hasVisual": false
+  },
+  {
+    "number": 184,
+    "stem": "Pointing to a photograph, a woman says: \"This man's son's sister is my mother-in-law.\" How is the woman's husband related to the man in the photograph?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Great-grandson."
+      },
+      {
+        "key": "c",
+        "text": "Son"
+      },
+      {
+        "key": "b",
+        "text": "Grandson."
+      },
+      {
+        "key": "d",
+        "text": "Nephew"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "b",
+    "answerText": "Grandson.",
+    "explanation": "The sister of a man's son is the man's daughter; if she is the woman's mother-in-law, the woman's husband is the man's grandson.",
+    "hasVisual": false
+  },
+  {
+    "number": 185,
+    "stem": "Select the odd alphanumeric group out from the following structural choices:",
+    "options": [
+      {
+        "key": "a",
+        "text": "D4W23."
+      },
+      {
+        "key": "c",
+        "text": "H8S19"
+      },
+      {
+        "key": "b",
+        "text": "F6U21"
+      },
+      {
+        "key": "d",
+        "text": "J10P16"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "c",
+    "answerText": "H8S19",
+    "explanation": "Alphanumeric pairs add up to 27 based on alphabet position indices, making the localized paired index group H8S19.",
+    "hasVisual": false
+  },
+  {
+    "number": 160,
+    "stem": "A specialized epithelial cell needs to transport glucose against its concentration gradient into the cytoplasm. It uses an influx of sodium ions moving down their electrochemical gradient to power this. This mechanism is an example of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Primary active transport"
+      },
+      {
+        "key": "c",
+        "text": "Secondary active symport"
+      },
+      {
+        "key": "b",
+        "text": "Simple facilitated diffusion"
+      },
+      {
+        "key": "d",
+        "text": "Receptor-mediated pinocytosis"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Secondary active symport",
+    "explanation": "Sodium-glucose co-transporters utilize secondary active symport, tapping a sodium gradient to actively drive glucose uptake.",
+    "hasVisual": false
+  },
+  {
+    "number": 161,
+    "stem": "If a cell has a diploid chromosome number of 2n=16, how many total DNA molecules (chromatids) are present in the cell during the G2 phase of the cell cycle?",
+    "options": [
+      {
+        "key": "a",
+        "text": "8"
+      },
+      {
+        "key": "c",
+        "text": "32"
+      },
+      {
+        "key": "b",
+        "text": "16"
+      },
+      {
+        "key": "d",
+        "text": "64"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "32",
+    "explanation": "A cell with a diploid count of 2n=16 chromosomes carries exactly 32 chromatids (DNA molecules) following S-phase synthesis.",
+    "hasVisual": false
+  },
+  {
+    "number": 162,
+    "stem": "Ribosomal RNA (rRNA) is actively synthesized and assembled into ribosomal subunits inside which specific nuclear sub-domain?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Kinetochore"
+      },
+      {
+        "key": "c",
+        "text": "Nucleolus"
+      },
+      {
+        "key": "b",
+        "text": "Nuclear pore complex"
+      },
+      {
+        "key": "d",
+        "text": "Perinuclear space matrix"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Nucleolus",
+    "explanation": "The nucleolus is a dense nuclear sub-domain dedicated to transcribing ribosomal RNA andassembling immature ribosomal sub-units.",
+    "hasVisual": false
+  },
+  {
+    "number": 163,
+    "stem": "If a cell biologist stains a green algal cell and uncovers a proteinaceous core surrounded by a starch sheath inside the chloroplast, they have mapped a:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Carotenoid crystal"
+      },
+      {
+        "key": "c",
+        "text": "Pyrenoid"
+      },
+      {
+        "key": "b",
+        "text": "Gas vacuole"
+      },
+      {
+        "key": "d",
+        "text": "Eyespot matrix"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Pyrenoid",
+    "explanation": "Algal pyrenoids are chloroplast micro-compartments featuring a RuBisCO-rich protein core surrounded by a starch sheath.",
+    "hasVisual": false
+  },
+  {
+    "number": 164,
+    "stem": "You are tracking a moss spore after it lands on damp soil. Before developing into a mature leaf-bearing gametophore, it forms a creeping, green, branched filamentous stage called a: [C",
+    "options": [
+      {
+        "key": "a",
+        "text": "Prothallus"
+      },
+      {
+        "key": "c",
+        "text": "Protonema"
+      },
+      {
+        "key": "b",
+        "text": "Sorus"
+      },
+      {
+        "key": "d",
+        "text": "Primary endosperm"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Protonema",
+    "explanation": "Germinating haploid moss spores initially form a prostrate, filamentous, green transitional stage called a protonema.",
+    "hasVisual": false
+  },
+  {
+    "number": 165,
+    "stem": "In Equisetum (horsetail), the sporangia are organized on compact, distinct terminal structures known as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sori"
+      },
+      {
+        "key": "c",
+        "text": "Strobili or Cones"
+      },
+      {
+        "key": "b",
+        "text": "Indusia"
+      },
+      {
+        "key": "d",
+        "text": "Sporophyll bands"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Strobili or Cones",
+    "explanation": "In the horsetail pteridophyte *Equisetum*, sporangia are organized into compact, specialized terminal clusters termed strobili.",
+    "hasVisual": false
+  },
+  {
+    "number": 166,
+    "stem": "A student looks at a pollen grain from Pinus under a microscope and notes two hollow, air-filled bladder extensions. These wings are an adaptation for:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Insect-mediated pollination"
+      },
+      {
+        "key": "c",
+        "text": "Anemophily (Wind pollination)"
+      },
+      {
+        "key": "b",
+        "text": "Hydrophily (Water pollination)"
+      },
+      {
+        "key": "d",
+        "text": "Epizoochory"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Anemophily (Wind pollination)",
+    "explanation": "The wing-like saccate air bladders on *Pinus* pollen grains lower particle density to optimize dispersal via wind (anemophily).",
+    "hasVisual": false
+  },
+  {
+    "number": 167,
+    "stem": "During megasporogenesis in a typical angiosperm, a single functional megaspore develops into a mature embryo sac. This final structure is characterized as:",
+    "options": [
+      {
+        "key": "a",
+        "text": "8-nucleate, 8-celled"
+      },
+      {
+        "key": "c",
+        "text": "7-celled, 8-nucleate"
+      },
+      {
+        "key": "b",
+        "text": "3-celled egg apparatus"
+      },
+      {
+        "key": "d",
+        "text": "4-nucleate macrospore"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "7-celled, 8-nucleate",
+    "explanation": "Standard angiosperm megasporogenesis and subsequent mitotic divisions produce a mature femalegametophyte containing 7 cells and 8 nuclei.",
+    "hasVisual": false
+  },
+  {
+    "number": 168,
+    "stem": "A plant's life cycle features an alternation of generations where both the sporophyte and gametophyte are free-living, independent, and photosynthetic. This fits:",
+    "options": [
+      {
+        "key": "a",
+        "text": "A typical bryophyte"
+      },
+      {
+        "key": "c",
+        "text": "A typical pteridophyte"
+      },
+      {
+        "key": "b",
+        "text": "A naked gymnosperm tree"
+      },
+      {
+        "key": "d",
+        "text": "A monocotyledonous herb"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "A typical pteridophyte",
+    "explanation": "Pteridophytes (ferns) feature an independent alternation of generations, where both sporophyte and gametophyte are photosynthetic and free-living.",
+    "hasVisual": false
+  },
+  {
+    "number": 169,
+    "stem": "Tetradynamous stamens, featuring two short outer filaments and four long inner filaments (2 + 4), are a key diagnostic character of:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Mustard family (Brassicaceae)"
+      },
+      {
+        "key": "c",
+        "text": "Pea family (Fabaceae)"
+      },
+      {
+        "key": "b",
+        "text": "Potato family (Solanaceae)"
+      },
+      {
+        "key": "d",
+        "text": "Lily family (Liliaceae)"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "a",
+    "answerText": "Mustard family (Brassicaceae)",
+    "explanation": "A tetradynamous androecium consisting of 4 long inner and 2 short outer stamens is a diagnostic family trait of Brassicaceae.",
+    "hasVisual": false
+  },
+  {
+    "number": 170,
+    "stem": "Mad Cow Disease (Bovine Spongiform Encephalopathy) and Kuru in humans are caused by slow-acting, infectious agents composed entirely of abnormal proteins called:",
+    "options": [
+      {
+        "key": "a",
+        "text": "Viroids"
+      },
+      {
+        "key": "c",
+        "text": "Prions"
+      },
+      {
+        "key": "b",
+        "text": "Virions"
+      },
+      {
+        "key": "d",
+        "text": "Bacteriophages"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Prions",
+    "explanation": "Spongiform encephalopathies like Mad Cow Disease are caused by prions, which are slowacting infectious agents made purely of protein.",
+    "hasVisual": false
+  },
+  {
+    "number": 171,
+    "stem": "When a T-even bacteriophage infects an E. coli cell, which specific part of the viral structure physically penetrates through the bacterial cell wall?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The entire protein capsid along with the genome"
+      },
+      {
+        "key": "b",
+        "text": "The tail fibers and baseplate assembly"
+      },
+      {
+        "key": "c",
+        "text": "Only the viral nucleic acid genome"
+      },
+      {
+        "key": "d",
+        "text": "Empty structural capsomeres"
+      }
+    ],
+    "subject": "Botany",
+    "answer": "c",
+    "answerText": "Only the viral nucleic acid genome",
+    "explanation": "During infection of *E. coli*, a T-even bacteriophage leaves its capsid shell outside and injects only its naked nucleic acid core.",
+    "hasVisual": false
+  },
+  {
+    "number": 172,
+    "stem": "According to Alexander von Humboldt’s classic ecological observations, species richness increases with increasing explored area, but only up to a limit. - Rank Factory Biratnagar",
+    "options": [],
+    "subject": "Botany",
+    "answer": "a",
+    "answerText": "Log S = Log C + Z Log A",
+    "explanation": "Humboldt's species-area power function S=CAZ linearizes on a log-log coordinate grid as \\log S = \\log C + Z \\log A.",
+    "hasVisual": false
+  },
+  {
+    "number": 186,
+    "stem": "Complete the missing entry in the following number series: 3, 5, 9, 17, 33, _______",
+    "options": [
+      {
+        "key": "a",
+        "text": "65."
+      },
+      {
+        "key": "c",
+        "text": "60"
+      },
+      {
+        "key": "b",
+        "text": "52."
+      },
+      {
+        "key": "d",
+        "text": "69"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "65.",
+    "explanation": "The series follows a second-order logic of adding doubling values: 3 (+2) ightarrow 5 (+4) ightarrow 9 (+8) ightarrow 17 (+16) ightarrow 33 (+32) ightarrow 65.",
+    "hasVisual": false
+  },
+  {
+    "number": 187,
+    "stem": "A man sells an article at a profit of 20%. If he had bought it for 20% less and sold it for Rs. 18 less, he would have gained 25%. Find the initial Cost Price (CP) of the article.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Rs. 90"
+      },
+      {
+        "key": "c",
+        "text": "Rs. 85"
+      },
+      {
+        "key": "b",
+        "text": "Rs. 100"
+      },
+      {
+        "key": "d",
+        "text": "Rs. 120"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "Rs. 90",
+    "explanation": "Setting up fractional cost equations 1.25(0.8x) = 1.2x - 18 yields a calculated initial cost price of exactly Rs. 90.",
+    "hasVisual": false
+  },
+  {
+    "number": 188,
+    "stem": "The average age of a group of 8 officers increases by 2 years when two old officers aged 40 years and 42 years are replaced by two new trainee sub-officers. What is the average age of the two new trainees?",
+    "options": [
+      {
+        "key": "a",
+        "text": "49 years."
+      },
+      {
+        "key": "c",
+        "text": "45 years"
+      },
+      {
+        "key": "b",
+        "text": "41 years."
+      },
+      {
+        "key": "d",
+        "text": "51 years"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "49 years.",
+    "explanation": "The total age increment is 16 years, making the combined age of the new trainees 98 years and their mean age 49 years.",
+    "hasVisual": false
+  },
+  {
+    "number": 189,
+    "stem": "A tank can be filled by Pipe A in 6 hours and emptied by Pipe B in 8 hours. If both pipes are opened simultaneously when the tank is empty, how long will it take to fill the tank completely?",
+    "options": [
+      {
+        "key": "a",
+        "text": "24 hours."
+      },
+      {
+        "key": "c",
+        "text": "14 hours"
+      },
+      {
+        "key": "b",
+        "text": "12 hours."
+      },
+      {
+        "key": "d",
+        "text": "48 hours"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "24 hours.",
+    "explanation": "Combined hourly drainage work capacity parameters evaluate to: {24}, requiring 24 hours to fill the tank. rac{1}{6} - rac{1}{8} = rac{1}",
+    "hasVisual": false
+  },
+  {
+    "number": 190,
+    "stem": "Ram can complete a piece of public office work in 10 days, while Shyam takes 15 days to do the same work. They start working together, but Ram leaves 2 days before the completion of the work. What is the total number of days taken to complete the entire assignment?",
+    "options": [
+      {
+        "key": "a",
+        "text": "7.2 days."
+      },
+      {
+        "key": "c",
+        "text": "6.5 days"
+      },
+      {
+        "key": "b",
+        "text": "8.0 days."
+      },
+      {
+        "key": "d",
+        "text": "7.0 days"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "7.2 days.",
+    "explanation": "Work rate equation balance precisely to 7.2 days. rac{d-2}{10} + rac{d}{15} = 1 simplifies to 5d = 36, which resolves",
+    "hasVisual": false
+  },
+  {
+    "number": 191,
+    "stem": "A person starts walking from his office towards the East. After walking 10 meters, he turns right and walks 5 meters. Then he turns left and walks 10 meters. In which direction is he now facing relative to his starting point?",
+    "options": [
+      {
+        "key": "a",
+        "text": "South-East."
+      },
+      {
+        "key": "c",
+        "text": "East"
+      },
+      {
+        "key": "b",
+        "text": "North-East"
+      },
+      {
+        "key": "d",
+        "text": "South"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "South-East.",
+    "explanation": "Tracking positional vector translations (10m East, 5m South, 10m East) locates the individual south and east of their starting origin.",
+    "hasVisual": false
+  },
+  {
+    "number": 192,
+    "stem": "In a row of 35 successful candidates, Mahesh is ranked 14th from the top. What is his position rank when counted from the bottom of the row?",
+    "options": [
+      {
+        "key": "a",
+        "text": "22nd."
+      },
+      {
+        "key": "c",
+        "text": "21st"
+      },
+      {
+        "key": "b",
+        "text": "23rd"
+      },
+      {
+        "key": "d",
+        "text": "20th"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "22nd.",
+    "explanation": "Positional ranking from the bottom of the row is evaluated as: 35 - 14 + 1 = 22.",
+    "hasVisual": false
+  },
+  {
+    "number": 193,
+    "stem": "Choose the correct alternative that logical sequencing dictates to replace the missing segment: Z1A, X2D, V6G, T24J, _______",
+    "options": [
+      {
+        "key": "a",
+        "text": "R120M."
+      },
+      {
+        "key": "c",
+        "text": "R120N"
+      },
+      {
+        "key": "b",
+        "text": "S120M"
+      },
+      {
+        "key": "d",
+        "text": "P120L"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "c",
+    "answerText": "R120N",
+    "explanation": "Letters reverse while numerical values grow by changing factors, generating the sequential entry solution R120N.",
+    "hasVisual": false
+  },
+  {
+    "number": 194,
+    "stem": "A scooter trekker leaves Kathmandu heading North towards Gosaikunda. He drives 30 km, turnsleft, and drives 15 km. He then turns left again and drives 30 km. How far and in which direction is he now located relative to his starting point?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15 km West."
+      },
+      {
+        "key": "c",
+        "text": "15 km East"
+      },
+      {
+        "key": "b",
+        "text": "30 km North."
+      },
+      {
+        "key": "d",
+        "text": "0 km (Back at start)"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "15 km West.",
+    "explanation": "The translation forms an open rectangle (30km N, 15km W, 30km S), leaving the trekker exactly 15km West of the start coordinates.",
+    "hasVisual": false
+  },
+  {
+    "number": 195,
+    "stem": "A clock is placed on a flat table. At 12:00 PM, its minute hand points North. At 3:45 PM, in which general compass direction will the minute hand be pointing?",
+    "options": [
+      {
+        "key": "a",
+        "text": "West"
+      },
+      {
+        "key": "c",
+        "text": "East"
+      },
+      {
+        "key": "b",
+        "text": "South."
+      },
+      {
+        "key": "d",
+        "text": "North-West"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "a",
+    "answerText": "West",
+    "explanation": "At 3:45 PM, the clock's minute hand points precisely at the 9 o'clock index line, which corresponds to West. 196. c 197. b 198. d 199. c 200. b",
+    "hasVisual": false
+  },
+  {
+    "number": 196,
+    "stem": "Which of the 4 possible option represent the cube in folded form",
+    "options": [],
+    "subject": "MAT",
+    "answer": "c",
+    "answerText": "c",
+    "explanation": "",
+    "hasVisual": true
+  },
+  {
+    "number": 197,
+    "stem": "Select the suitable option that would complete the figure",
+    "options": [],
+    "subject": "MAT",
+    "answer": "b",
+    "answerText": "b",
+    "explanation": "",
+    "hasVisual": true
+  },
+  {
+    "number": 198,
+    "stem": "following the pattern ,select the tile that would complete the pattern.",
+    "options": [],
+    "subject": "MAT",
+    "answer": "d",
+    "answerText": "d",
+    "explanation": "",
+    "hasVisual": true
+  },
+  {
+    "number": 199,
+    "stem": "Which figure is next in series",
+    "options": [],
+    "subject": "MAT",
+    "answer": "c",
+    "answerText": "c",
+    "explanation": "",
+    "hasVisual": true
+  },
+  {
+    "number": 200,
+    "stem": "Count the number of triangle?",
+    "options": [
+      {
+        "key": "a",
+        "text": "21."
+      },
+      {
+        "key": "b",
+        "text": "22."
+      },
+      {
+        "key": "c",
+        "text": "20"
+      },
+      {
+        "key": "d",
+        "text": "23"
+      }
+    ],
+    "subject": "MAT",
+    "answer": "b",
+    "answerText": "22.",
+    "explanation": "",
+    "hasVisual": true
+  }
+]
